@@ -1,0 +1,652 @@
+,content,date,text,Length,sid_sentiment,finbert_label
+2,"['current', 'valu', 'privat', 'market', 'becom', 'one', 'biggest', 'histori', 'there', 'one', 'competitor', 'set', 'make', 'pretti', 'penni', 'deal']",20210623 2125590000,current valu privat market becom one biggest histori there one competitor set make pretti penni deal,16,0.0,0
+3,"['interest', 'piec', 'compani', 'head', 'good', 'us', 'billion', 'one', 'year']",20210623 1616020000,interest piec compani head good us billion one year,9,0.7096,0
+4,"['dingdong', 'miss', 'fresh', 'take']",20210623 1219450000,dingdong miss fresh take,4,0.1779,0
+8,"['check', 'articl', 'market']",20210623 0647090000,check articl market,3,0.0,0
+9,"['ride', 'new', 'york', 'help', 'expand', 'beyond', 'china', 'economist']",20210623 0411090000,ride new york help expand beyond china economist,8,0.6124,0
+10,['come'],20210624 2357450000,come,1,0.0,0
+12,"['compani', 'rais', 'billion', 'price', 'rang']",20210624 2351460000,compani rais billion price rang,5,0.0,0
+13,"['giant', 'billion', 'us']",20210624 2322440000,giant billion us,3,0.0,0
+14,"['valuat', 'target', 'billion', 'billion', 'via']",20210624 2322400000,valuat target billion billion via,5,0.0,0
+15,"['wall', 'street', 'journal', 'rais', 'nearli', 'billion']",20210624 2319330000,wall street journal rais nearli billion,6,0.0,0
+16,"['global', 'set', 'target', 'valuat', 'upcom', 'accord']",20210624 2319060000,global set target valuat upcom accord,6,0.0,0
+17,"['ae', 'na', 'de', 'nova', 'york', 'china']",20210624 2317110000,ae na de nova york china,6,0.0,0
+18,"['valuat', 'target', 'billion', 'billion', 'compani', 'rais', 'billion', 'price', 'r']",20210624 2316180000,valuat target billion billion compani rais billion price r,9,0.0,0
+19,"['giant', 'billion', 'us', 'baba']",20210624 2316170000,giant billion us baba,4,0.0,0
+20,"['rais', 'nearli', 'billion']",20210624 2310220000,rais nearli billion,3,0.0,0
+21,"['valuat', 'target', 'billion', 'billion']",20210624 2308040000,valuat target billion billion,4,0.0,0
+22,"['valuat', 'target', 'billion', 'billion']",20210624 2308040000,valuat target billion billion,4,0.0,0
+23,"['compani', 'rais', 'billion', 'price', 'rang', 'valuat', 'billion', 'billion', 'v']",20210624 2303500000,compani rais billion price rang valuat billion billion v,9,0.0,0
+24,"['valuat', 'target', 'billion', 'billion', 'compani', 'rais', 'billion', 'price', 'rang']",20210624 2301350000,valuat target billion billion compani rais billion price rang,9,0.0,0
+25,"['valuat', 'target', 'billion', 'billion']",20210624 2301340000,valuat target billion billion,4,0.0,0
+26,"['valuat', 'target', 'billion', 'billion']",20210624 2300190000,valuat target billion billion,4,0.0,0
+27,"['global', 'valuat', 'billion', 'billion', 'us', 'accord', 'latest', 'public', 'file']",20210624 2259040000,global valuat billion billion us accord latest public file,9,0.0,0
+28,"['valuat', 'target', 'billion', 'billion']",20210624 2258410000,valuat target billion billion,4,0.0,0
+29,"['valuat', 'target', 'billion', 'billion']",20210624 2257210000,valuat target billion billion,4,0.0,0
+30,"['giant', 'look', 'rais', 'much', 'billion', 'one', 'biggest', 'us', 'last', 'decad']",20210624 2245010000,giant look rais much billion one biggest us last decad,10,0.0,0
+31,"['giant', 'look', 'rais', 'much', 'billion', 'one', 'biggest', 'us', 'last', 'decad']",20210624 2245010000,giant look rais much billion one biggest us last decad,10,0.0,0
+32,"['ae', 'na', 'de', 'nova', 'york', 'china']",20210624 2235300000,ae na de nova york china,6,0.0,0
+33,"['global', 'rais', 'us']",20210624 2219130000,global rais us,3,0.0,0
+34,"['giant', 'global', 'billion', 'us']",20210624 2200270000,giant global billion us,4,0.0,0
+35,"['china', 'base', 'mobil', 'technolog', 'platform', 'global', 'million', 'rang', 'cap', 'date']",20210624 2144420000,china base mobil technolog platform global million rang cap date,10,0.0,0
+36,"['offer', 'list']",20210624 2129490000,offer list,2,0.0,0
+37,"['market', 'begun', 'antitrust', 'probe', 'firm', 'compani', 'us', 'latest', 'crackdown', 'monopolist', 'tech', 'full']",20210624 1600570000,market begun antitrust probe firm compani us latest crackdown monopolist tech full,12,0.0,-1
+38,"['speed', 'past', 'antitrust', 'probe']",20210624 1137320000,speed past antitrust probe,4,0.0,0
+40,"['giant', 'could', 'biggest', 'year']",20210624 0219340000,giant could biggest year,4,0.0,0
+43,"['target', 'billion', 'farewel', 'show', 'stake', 'via', 'yahoo']",20210625 2300310000,target billion farewel show stake via yahoo,7,0.0,0
+44,"['us', 'week', 'ahead', 'debut', 'week']",20210625 2244140000,us week ahead debut week,5,0.0,0
+45,"['stock', 'loser', 'start', 'invest', 'stock', 'money', 'invest', 'financ', 'trade']",20210625 2240280000,stock loser start invest stock money invest financ trade,9,-0.5267,0
+46,"['see', 'legaci', 'credit', 'street', 'earn', 'mislead', 'new', 'research', 'model', 'portfolio']",20210625 2200200000,see legaci credit street earn mislead new research model portfolio,10,0.3818,-1
+47,"['see', 'legaci', 'credit', 'street', 'earn', 'mislead', 'new', 'research', 'model', 'portfolio']",20210625 2200060000,see legaci credit street earn mislead new research model portfolio,10,0.3818,-1
+48,"['global', 'initi', 'public', 'offer', 'rais', 'billion', 'unit', 'cover', 'first', 'day']",20210625 2200010000,global initi public offer rais billion unit cover first day,10,0.0,0
+49,"['valuat', 'us', 'amid']",20210625 2152280000,valuat us amid,3,0.0,0
+50,"['epic', 'us', 'china', 'crackdown', 'cash', 'burn']",20210625 2151520000,epic us china crackdown cash burn,6,0.0,-1
+51,"['epic', 'us', 'china', 'crackdown', 'cash', 'burn']",20210625 2151510000,epic us china crackdown cash burn,6,0.0,-1
+52,"['mani', 'actual', 'pretti', 'good', 'china', 'offer', 'price', 'class', 'start', 'trade', 'wed', 'compani', 'valu', 'size', 'interest', 'big', 'fund']",20210625 2150090000,mani actual pretti good china offer price class start trade wed compani valu size interest big fund,17,0.7096,0
+53,"['compani', 'potenti', 'becom', 'one', 'biggest', 'valuat', 'billion', 'could', 'give', 'us', 'market', 'thank', 'articl']",20210625 2136080000,compani potenti becom one biggest valuat billion could give us market thank articl,13,0.3612,1
+54,"['stock', 'loser', 'start', 'stock']",20210625 2135090000,stock loser start stock,4,-0.5267,0
+55,"['stock', 'loser', 'start']",20210625 2050330000,stock loser start,3,-0.5267,-1
+56,"['da', 'de', 'us', 'em', 'na', 'de']",20210625 2038090000,da de us em na de,6,0.0,0
+57,"['rais', 'billion', 'valu', 'compani', 'billion', 'via', 'china']",20210625 2033030000,rais billion valu compani billion via china,7,0.0,0
+58,"['da', 'de', 'us', 'em', 'na', 'de']",20210625 2031020000,da de us em na de,6,0.0,0
+59,"['brief', 'valuat', 'stock', 'exchang', 'asana', 'via']",20210625 2013510000,brief valuat stock exchang asana via,6,0.0,0
+60,"['know', 'play', 'stock']",20210625 2000040000,know play stock,3,0.34,0
+61,"['simpl', 'unlik', 'level', 'ventur', 'capit', 'invest', 'demand', 'cash', 'via', 'also', 'far', 'exploit', 'labor', 'might', 'produc', 'china']",20210625 1948390000,simpl unlik level ventur capit invest demand cash via also far exploit labor might produc china,16,-0.2263,0
+62,"['know', 'play', 'stock']",20210625 1933350000,know play stock,3,0.34,0
+63,"['million', 'sold', 'us', 'could', 'rais', 'much', 'billion', 'huge', 'sum']",20210625 1927380000,million sold us could rais much billion huge sum,9,0.3182,0
+64,"['billion', 'us', 'fulli', 'cover', 'financ', 'trade', 'invest', 'trade']",20210625 1909390000,billion us fulli cover financ trade invest trade,8,0.0,0
+65,"['compani', 'rais', 'billion', 'price', 'rang']",20210625 1902040000,compani rais billion price rang,5,0.0,0
+66,"['de', 'de', 'na', 'us', 'e', 'us']",20210625 1828460000,de de na us e us,6,0.0,0
+67,"['china', 'crackdown', 'cash', 'burn']",20210625 1821210000,china crackdown cash burn,4,0.0,-1
+68,"['tech', 'updat', 'giant', 'reportedli', 'billion', 'valuat', 'upcom', 'us', 'discuss']",20210625 1819370000,tech updat giant reportedli billion valuat upcom us discuss,9,0.0,0
+69,"['valuat', 'upcom']",20210625 1810410000,valuat upcom,2,0.0,0
+70,"['china', 'scrutini', 'pall']",20210625 1808060000,china scrutini pall,3,0.0,0
+71,"['know', 'play', 'stock', 'invest', 'stock']",20210625 1803030000,know play stock invest stock,5,0.34,0
+72,"['da', 'ae', 'na', 'de', 'nova', 'york', 'de', 'da', 'ser']",20210625 1755120000,da ae na de nova york de da ser,9,0.0,0
+73,"['epic', 'us', 'china', 'crackdown', 'cash', 'burn', 'global', 'within', 'strike', 'distanc', 'one']",20210625 1750280000,epic us china crackdown cash burn global within strike distanc one,11,-0.128,-1
+74,"['top', 'stori', 'firm', 'cover', 'first', 'day', 'see']",20210625 1746450000,top stori firm cover first day see,7,0.2023,0
+75,"['valuat', 'target', 'follow', 'firm', 'baba']",20210625 1737380000,valuat target follow firm baba,5,0.0,0
+76,"['biggest', 'sinc', 'rush', 'slice', 'us']",20210625 1736090000,biggest sinc rush slice us,5,0.0,0
+77,"['debut', 'new', 'york', 'stock', 'exchang', 'biggest', 'us']",20210625 1735050000,debut new york stock exchang biggest us,7,0.0,0
+78,"['epic', 'us', 'china', 'crackdown', 'cash']",20210625 1729110000,epic us china crackdown cash,5,0.0,-1
+79,"['global', 'registr', 'statement', 'offer']",20210625 1728330000,global registr statement offer,4,0.0,0
+80,"['top', 'firm', 'cover', 'first', 'day', 'see']",20210625 1723200000,top firm cover first day see,6,0.2023,0
+81,"['global', 'de', 'ser', 'na', 'de', 'de', 'nova', 'em']",20210625 1723070000,global de ser na de de nova em,8,0.0,0
+82,"['appli', 'rais', 'new', 'york', 'initi', 'public', 'offer', 'set', 'powerhous', 'debut', 'compani', 'us', 'sinc']",20210625 1719000000,appli rais new york initi public offer set powerhous debut compani us sinc,13,0.0,0
+83,"['giant', 'billion', 'valuat', 'via']",20210625 1717140000,giant billion valuat via,4,0.0,0
+84,"['debut', 'new', 'york', 'stock', 'exchang', 'biggest', 'us', 'via', 'entrepreneur']",20210625 1714160000,debut new york stock exchang biggest us via entrepreneur,9,0.0,0
+85,"['epic', 'us', 'china', 'crackdown', 'cash', 'burn']",20210625 1708030000,epic us china crackdown cash burn,6,0.0,-1
+86,"['ambiti', 'china', 'crackdown', 'cash', 'burn', 'baba']",20210625 1652230000,ambiti china crackdown cash burn baba,6,0.0,-1
+87,['valuat'],20210625 1638220000,valuat,1,0.0,0
+88,"['valuat', 'target', 'billion', 'billion']",20210625 1630580000,valuat target billion billion,4,0.0,0
+89,"['buy', 'stock', 'long', 'us']",20210625 1627430000,buy stock long us,4,0.0,0
+90,"['ser', 'la', 'de', 'en', 'la']",20210625 1621460000,ser la de en la,5,0.0,0
+91,"['watch', 'rush', 'place', 'upcom', 'cours', 'biggest', 'us', 'share', 'sale', 'compani', 'sinc']",20210625 1620000000,watch rush place upcom cours biggest us share sale compani sinc,11,0.296,0
+92,"['rush', 'place', 'upcom', 'cours', 'biggest', 'us', 'share', 'sale', 'compani', 'sinc']",20210625 1615000000,rush place upcom cours biggest us share sale compani sinc,10,0.296,0
+93,"['rush', 'place', 'upcom', 'cours', 'biggest', 'us', 'share', 'sale', 'compani', 'sinc']",20210625 1610000000,rush place upcom cours biggest us share sale compani sinc,10,0.296,0
+94,"['know', 'recent']",20210625 1608070000,know recent,2,0.0,0
+95,"['know', 'recent']",20210625 1608040000,know recent,2,0.0,0
+96,['statesid'],20210625 1602330000,statesid,1,0.0,0
+97,"['yet', 'anoth', 'gem', 'brought', 'wonder', 'wall', 'st', 'anoth', 'great', 'short', 'like', 'coin', 'stay', 'tune']",20210625 1600570000,yet anoth gem brought wonder wall st anoth great short like coin stay tune,14,0.765,0
+98,"['latest', 'custom', 'news', 'valuat', 'us', 'amid', 'antitrust']",20210625 1600170000,latest custom news valuat us amid antitrust,7,0.0,-1
+99,"['last', 'china', 'partnership', 'last', 'ago', 'also', 'player', 'still', 'stock', 'day', 'area', 'next', 'logic', 'chart', 'magnet']",20210625 1557210000,last china partnership last ago also player still stock day area next logic chart magnet,15,0.0,0
+100,"['foreign', 'buy', 'china', 'size', 'week', 'review']",20210625 1546330000,foreign buy china size week review,6,0.0,0
+101,"['cusp', 'one', 'biggest', 'us', 'past', 'decad', 'crackdown', 'tech', 'spoil', 'parti', 'de', 'technolog']",20210625 1546120000,cusp one biggest us past decad crackdown tech spoil parti de technolog,12,0.0,0
+102,"['valuat', 'us', 'amid', 'antitrust', 'new', 'york', 'post']",20210625 1535020000,valuat us amid antitrust new york post,7,0.0,0
+103,"['take', 'note', 'valuat', 'us', 'amid', 'antitrust']",20210625 1530050000,take note valuat us amid antitrust,6,0.0,0
+104,"['valuat', 'us', 'amid', 'new', 'york', 'compani', 'china', 'go', 'public', 'new', 'york', 'stock', 'exchang', 'add']",20210625 1520110000,valuat us amid new york compani china go public new york stock exchang add,14,0.0,0
+105,"['giant', 'billion', 'valuat']",20210625 1516060000,giant billion valuat,3,0.0,0
+106,"['billion', 'valuat']",20210625 1515290000,billion valuat,2,0.0,0
+107,"['renaiss', 'us', 'market', 'review']",20210625 1509260000,renaiss us market review,4,0.0,0
+108,"['valuat', 'us', 'amid', 'antitrust']",20210625 1507230000,valuat us amid antitrust,4,0.0,-1
+109,"['updat', 'giant', 'billion', 'us']",20210625 1506140000,updat giant billion us,4,0.0,0
+110,"['valuat', 'us', 'amid', 'antitrust']",20210625 1506070000,valuat us amid antitrust,4,0.0,-1
+111,"['compani', 'new', 'york', 'stock', 'exchang', 'alreadi', 'valu']",20210625 1505380000,compani new york stock exchang alreadi valu,7,0.0,0
+112,"['china', 'valuat']",20210625 1500440000,china valuat,2,0.0,0
+113,"['remind', 'appl', 'larg', 'stake', 'giant', 'reportedli', 'billion', 'valuat', 'upcom', 'us']",20210625 1500290000,remind appl larg stake giant reportedli billion valuat upcom us,10,0.0,0
+114,"['giant', 'supposedli', 'consid', 'billion', 'assess', 'upcom', 'unit']",20210625 1458340000,giant supposedli consid billion assess upcom unit,7,0.0,0
+115,"['china', 'list', 'frenzi', 'us', 'set']",20210625 1453130000,china list frenzi us set,5,0.0,0
+116,"['ambiti', 'china', 'crackdown', 'cash', 'burn']",20210625 1436480000,ambiti china crackdown cash burn,5,0.0,-1
+117,"['billion', 'new', 'york']",20210625 1429050000,billion new york,3,0.0,0
+118,"['giant', 'reportedli', 'billion', 'valuat', 'upcom', 'us']",20210625 1427110000,giant reportedli billion valuat upcom us,6,0.0,0
+119,"['conserv', 'billion', 'valuat', 'upcom', 'fortun']",20210625 1425270000,conserv billion valuat upcom fortun,5,0.0,0
+120,"['giant', 'reportedli', 'billion', 'valuat', 'upcom', 'us']",20210625 1421060000,giant reportedli billion valuat upcom us,6,0.0,0
+121,"['giant', 'reportedli', 'billion', 'valuat', 'upcom', 'us']",20210625 1418070000,giant reportedli billion valuat upcom us,6,0.0,0
+122,"['cusp', 'one', 'biggest', 'us', 'past', 'decad', 'crackdown', 'tech', 'spoil', 'parti']",20210625 1416270000,cusp one biggest us past decad crackdown tech spoil parti,10,0.0,0
+123,"['busi', 'insid', 'giant', 'reportedli', 'billion', 'valuat', 'upcom', 'us']",20210625 1416110000,busi insid giant reportedli billion valuat upcom us,8,0.0,0
+124,"['giant', 'reportedli', 'billion', 'valuat', 'upcom', 'us']",20210625 1416050000,giant reportedli billion valuat upcom us,6,0.0,0
+125,"['cusp', 'one', 'biggest', 'us', 'past', 'decad', 'crackdown', 'tech', 'spoil', 'parti']",20210625 1408040000,cusp one biggest us past decad crackdown tech spoil parti,10,0.0,0
+127,"['giant', 'also', 'sa', 'billion', 'us']",20210625 1405470000,giant also sa billion us,5,0.0,0
+128,"['cusp', 'one', 'biggest', 'us', 'past', 'decad', 'crackdown', 'tech', 'spoil', 'parti']",20210625 1404020000,cusp one biggest us past decad crackdown tech spoil parti,10,0.0,0
+129,"['firm', 'billion', 'cover', 'first', 'day']",20210625 1359050000,firm billion cover first day,5,0.0,0
+130,"['giant', 'billion', 'valuat']",20210625 1351300000,giant billion valuat,3,0.0,0
+132,"['la', 'ma', 'firm', 'cover', 'first', 'day', 'see']",20210625 1341550000,la ma firm cover first day see,7,0.0,0
+133,"['top', 'peer', 'play']",20210625 1339060000,top peer play,3,0.4939,0
+134,"['last', 'china', 'partnership', 'ago', 'also', 'player', 'still', 'area', 'next', 'logic', 'chart', 'magnet', 'zone']",20210625 1337390000,last china partnership ago also player still area next logic chart magnet zone,13,0.0,0
+136,"['giant', 'look', 'rais', 'much', 'billion', 'one', 'biggest', 'us', 'past']",20210625 1330010000,giant look rais much billion one biggest us past,9,0.0,0
+137,"['top', 'stori', 'firm', 'cover', 'first', 'day', 'see']",20210625 1328000000,top stori firm cover first day see,7,0.2023,0
+138,"['el', 'chino', 'de', 'el', 'de', 'de', 'mil', 'en', 'con', 'de', 'b', 'lo', 'ser', 'de', 'la', 'de']",20210625 1323320000,el chino de el de de mil en con de b lo ser de la de,16,0.0,0
+139,"['junta', 'con', 'brazil', 'x', 'pega', 'appl', 'en']",20210625 1321360000,junta con brazil x pega appl en,7,0.0,0
+140,"['rais', 'billion', 'valuat', 'alreadi', 'fulli', 'cover', 'first', 'yoy', 'loss']",20210625 1316480000,rais billion valuat alreadi fulli cover first yoy loss,9,-0.3182,0
+141,"['cusp', 'one', 'biggest', 'us', 'past', 'decad', 'crackdown', 'tech', 'spoil', 'parti']",20210625 1315290000,cusp one biggest us past decad crackdown tech spoil parti,10,0.0,0
+142,"['firm', 'billion', 'valuat']",20210625 1313160000,firm billion valuat,3,0.0,0
+143,"['rush', 'slice', 'us']",20210625 1311390000,rush slice us,3,0.0,0
+144,"['rush', 'slice', 'us']",20210625 1311390000,rush slice us,3,0.0,0
+145,"['cusp', 'one', 'biggest', 'us', 'past', 'decad', 'crackdown', 'tech', 'spoil', 'parti']",20210625 1311370000,cusp one biggest us past decad crackdown tech spoil parti,10,0.0,0
+146,"['rush', 'slice']",20210625 1310460000,rush slice,2,0.0,0
+147,"['firm', 'cover', 'first', 'day', 'mail']",20210625 1307130000,firm cover first day mail,5,0.0,0
+148,['new'],20210625 1300490000,new,1,0.0,0
+149,"['would', 'one', 'biggest', 'compani', 'us', 'sinc', 'jack', 'ma', 'group', 'hold', 'went', 'public']",20210625 1300120000,would one biggest compani us sinc jack ma group hold went public,12,0.0,0
+150,"['valuat', 'target', 'billion', 'billion']",20210625 1256110000,valuat target billion billion,4,0.0,0
+151,"['ambiti', 'china', 'crackdown', 'cash', 'burn']",20210625 1249090000,ambiti china crackdown cash burn,5,0.0,-1
+152,"['new', 'york']",20210625 1240020000,new york,2,0.0,0
+153,"['billion', 'new', 'york']",20210625 1232450000,billion new york,3,0.0,0
+154,"['stock', 'market', 'wealth', 'us', 'export', 'china', 'compani', 'rais', 'billion', 'price', 'rang', 'via']",20210625 1222400000,stock market wealth us export china compani rais billion price rang via,12,0.4939,0
+155,"['target', 'valuat', 'less', 'initi', 'rang', 'potenti', 'express', 'concern', 'growth', 'chanc', 'regul', 'tech', 'sun', 'report']",20210625 1205290000,target valuat less initi rang potenti express concern growth chanc regul tech sun report,14,0.3818,0
+156,"['compani', 'rais', 'billion', 'price', 'rang']",20210625 1150060000,compani rais billion price rang,5,0.0,0
+157,"['china', 'list', 'frenzi', 'us', 'set']",20210625 1148410000,china list frenzi us set,5,0.0,0
+158,['us'],20210625 1146560000,us,1,0.0,0
+159,"['plan', 'de', 'de', 'la', 'fed', 'para', 'de', 'c', 'de', 'para']",20210625 1140520000,plan de de la fed para de c de para,10,0.0,0
+160,"['valuat', 'target', 'billion', 'billion']",20210625 1138550000,valuat target billion billion,4,0.0,0
+161,"['giant', 'billion', 'valuat']",20210625 1137570000,giant billion valuat,3,0.0,0
+162,"['new', 'post', 'stock', 'news']",20210625 1135360000,new post stock news,4,0.0,0
+163,"['firm', 'billion', 'cover', 'first', 'day', 'via']",20210625 1134300000,firm billion cover first day via,6,0.0,0
+164,"['firm', 'cover', 'first', 'day']",20210625 1113570000,firm cover first day,4,0.0,0
+165,['us'],20210625 1113160000,us,1,0.0,0
+166,"['china', 'ride', 'servic', 'seek', 'us', 'piec', 'face', 'competit', 'probe', 'fake']",20210625 1110550000,china ride servic seek us piec face competit probe fake,10,-0.4767,0
+167,"['appli', 'rais', 'new', 'york', 'initi', 'public', 'offer', 'set', 'powerhous', 'debut', 'compani', 'us', 'sinc']",20210625 1059390000,appli rais new york initi public offer set powerhous debut compani us sinc,13,0.0,0
+168,"['lever', 'de', 'lor', 'de', 'son', 'wall', 'street', 'via', 'market', 'digit']",20210625 1057210000,lever de lor de son wall street via market digit,10,0.0,0
+169,"['seek', 'rais', 'billion', 'valuat', 'billion', 'billion', 'alreadi', 'fulli', 'cover', 'first', 'day']",20210625 1047190000,seek rais billion valuat billion billion alreadi fulli cover first day,11,0.0,0
+170,"['billion', 'valuat']",20210625 1027150000,billion valuat,2,0.0,0
+171,"['lever', 'de', 'lor', 'de', 'son', 'wall']",20210625 1009230000,lever de lor de son wall,6,0.0,0
+172,"['lever', 'de', 'lor', 'de', 'son', 'wall']",20210625 1001550000,lever de lor de son wall,6,0.0,0
+173,"['lever', 'de', 'lor', 'de', 'son', 'wall', 'street', 'busi']",20210625 1001340000,lever de lor de son wall street busi,8,0.0,0
+174,"['lever', 'de', 'lor', 'de', 'son', 'wall', 'street']",20210625 1001310000,lever de lor de son wall street,7,0.0,0
+175,"['gun', 'billion', 'valuat', 'news', 'also', 'develop', 'electr', 'autonom', 'drive', 'technolog']",20210625 0954120000,gun billion valuat news also develop electr autonom drive technolog,10,-0.34,0
+176,"['us', 'price', 'rang', 'per', 'depositari', 'share', 'valuat']",20210625 0946080000,us price rang per depositari share valuat,7,0.296,0
+177,"['conserv', 'billion', 'valuat', 'upcom']",20210625 0945030000,conserv billion valuat upcom,4,0.0,0
+178,"['new', 'york', 'busi']",20210625 0935360000,new york busi,3,0.0,0
+179,"['rais', 'much', 'new', 'york', 'stock', 'exchang', 'would', 'one', 'intern']",20210625 0930030000,rais much new york stock exchang would one intern,9,0.0,0
+180,"['firm', 'billion', 'cover', 'first', 'day', 'via', 'yahoo']",20210625 0930030000,firm billion cover first day via yahoo,7,0.0,0
+181,"['huge', 'day', 'coverag', 'firm', 'cover', 'first', 'day']",20210625 0859220000,huge day coverag firm cover first day,7,0.3182,0
+182,"['giant', 'global', 'new', 'york', 'initi', 'public', 'offer', 'rais', 'billion', 'fulli', 'cover', 'first', 'day', 'accord', 'four', 'direct', 'knowledg']",20210625 0850000000,giant global new york initi public offer rais billion fulli cover first day accord four direct knowledg,17,0.0,0
+183,"['compani', 'rais', 'billion', 'price', 'rang']",20210625 0841100000,compani rais billion price rang,5,0.0,0
+184,"['firm', 'cover', 'first', 'day']",20210625 0832310000,firm cover first day,4,0.0,0
+185,"['hail', 'actual', 'quit', 'formid', 'financi', 'err', 'billion', 'valuat', 'giant', 'list', 'million', 'depositori', 'china', 'transport']",20210625 0818480000,hail actual quit formid financi err billion valuat giant list million depositori china transport,14,0.0772,0
+186,"['wall', 'street', 'journal', 'rais', 'nearli', 'billion']",20210625 0807560000,wall street journal rais nearli billion,6,0.0,0
+188,"['bi', 'dollar', 'die', 'wird', 'bi', 'dollar', 'die']",20210625 0806290000,bi dollar die wird bi dollar die,7,-0.8316,0
+189,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0802350000,china list frenzi us set,5,0.0,0
+190,"['billion', 'us', 'fulli', 'cover']",20210625 0801520000,billion us fulli cover,4,0.0,0
+191,"['valuat', 'target', 'billion', 'billion']",20210625 0756350000,valuat target billion billion,4,0.0,0
+194,"['global', 'rais', 'billion', 'fulli', 'cover', 'us']",20210625 0744420000,global rais billion fulli cover us,6,0.0,0
+195,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0741340000,china list frenzi us set,5,0.0,0
+196,"['giant', 'billion', 'valuat']",20210625 0740280000,giant billion valuat,3,0.0,0
+197,"['wall', 'street', 'journal', 'rais', 'nearli', 'billion']",20210625 0731180000,wall street journal rais nearli billion,6,0.0,0
+198,"['global', 'rais', 'billion', 'fulli', 'cover']",20210625 0727110000,global rais billion fulli cover,5,0.0,0
+199,"['firm', 'rais', 'us']",20210625 0721580000,firm rais us,3,0.0,0
+200,['valuat'],20210625 0721230000,valuat,1,0.0,0
+201,"['global', 'rais', 'billion', 'fulli', 'cover']",20210625 0720260000,global rais billion fulli cover,5,0.0,0
+202,"['china', 'list', 'frenzi', 'us', 'set', 'june', 'giant', 'billion', 'new', 'york', 'debut', 'supercharg', 'unit', 'back']",20210625 0719140000,china list frenzi us set june giant billion new york debut supercharg unit back,14,0.0,0
+203,"['giant', 'rais', 'us']",20210625 0716550000,giant rais us,3,0.0,0
+204,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0715530000,china list frenzi us set,5,0.0,0
+205,"['valuat', 'us']",20210625 0713030000,valuat us,2,0.0,0
+206,"['giant', 'rais', 'much', 'billion', 'new', 'york', 'stock', 'exchang', 'debut', 'set', 'like', 'biggest', 'us', 'initi', 'public', 'offer', 'year']",20210625 0708000000,giant rais much billion new york stock exchang debut set like biggest us initi public offer year,17,0.3612,0
+207,"['invest', 'china', 'legal', 'trade', 'compani', 'rais', 'billion', 'price', 'rang']",20210625 0707360000,invest china legal trade compani rais billion price rang,9,0.128,0
+208,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0705100000,china list frenzi us set,5,0.0,0
+209,"['billion', 'us', 'fulli', 'cover', 'good', 'sourc']",20210625 0704000000,billion us fulli cover good sourc,6,0.4404,1
+210,"['billion', 'us', 'fulli', 'cover']",20210625 0658330000,billion us fulli cover,4,0.0,0
+211,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0641530000,china list frenzi us set,5,0.0,0
+212,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0638110000,china list frenzi us set,5,0.0,0
+213,"['updat', 'list', 'frenzi', 'us', 'set', 'baba']",20210625 0620280000,updat list frenzi us set baba,6,0.0,0
+214,"['china', 'list', 'frenzi', 'us', 'set', 'news']",20210625 0602500000,china list frenzi us set news,6,0.0,0
+215,"['cut', 'edg', 'research', 'across', 'asset', 'compani', 'aim', 'valuat', 'billion', 'new', 'york', 'debut', 'set', 'like', 'biggest', 'us']",20210625 0602120000,cut edg research across asset compani aim valuat billion new york debut set like biggest us,16,0.4404,-1
+216,"['giant', 'billion', 'valuat']",20210625 0550120000,giant billion valuat,3,0.0,0
+217,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0540020000,china list frenzi us set,5,0.0,0
+218,"['answer', 'valuat', 'list', 'biggest', 'year', 'howev', 'hope', 'fetch']",20210625 0539150000,answer valuat list biggest year howev hope fetch,8,0.4404,0
+219,"['china', 'go', 'huge', 'keep', 'giant', 'billion', 'valuat']",20210625 0538290000,china go huge keep giant billion valuat,7,0.3182,0
+220,"['rais', 'nearli', 'billion']",20210625 0533220000,rais nearli billion,3,0.0,0
+221,"['firm', 'rais', 'us']",20210625 0518540000,firm rais us,3,0.0,0
+222,"['giant', 'rais', 'billion', 'us']",20210625 0508120000,giant rais billion us,4,0.0,0
+223,"['giant', 'billion', 'valuat']",20210625 0502050000,giant billion valuat,3,0.0,0
+224,"['good', 'morn', 'global', 'compani', 'aim', 'valuat', 'billion', 'debut', 'set', 'like', 'biggest', 'us', 'year', 'solid', 'open', 'top']",20210625 0458340000,good morn global compani aim valuat billion debut set like biggest us year solid open top,16,0.7783,1
+225,['us'],20210625 0448050000,us,1,0.0,0
+226,['us'],20210625 0443410000,us,1,0.0,0
+227,"['global', 'compani', 'aim', 'valuat', 'billion', 'new', 'york', 'stock', 'exchang', 'debut', 'set', 'like', 'biggest', 'us', 'initi', 'public', 'offer', 'year', 'china']",20210625 0439080000,global compani aim valuat billion new york stock exchang debut set like biggest us initi public offer year china,19,0.3612,0
+228,"['giant', 'billion', 'valuat']",20210625 0431470000,giant billion valuat,3,0.0,0
+229,"['giant', 'us']",20210625 0428030000,giant us,2,0.0,0
+230,"['ride', 'firm', 'valuat', 'target', 'billion', 'billion']",20210625 0419320000,ride firm valuat target billion billion,6,0.0,0
+231,"['valuat', 'target', 'billion', 'billion']",20210625 0416340000,valuat target billion billion,4,0.0,0
+232,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0414500000,china list frenzi us set,5,0.0,0
+233,['us'],20210625 0414390000,us,1,0.0,0
+234,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0414390000,china list frenzi us set,5,0.0,0
+235,['us'],20210625 0414380000,us,1,0.0,0
+236,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0408530000,china list frenzi us set,5,0.0,0
+237,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0408180000,china list frenzi us set,5,0.0,0
+239,"['wall', 'street', 'journal', 'rais', 'nearli', 'billion']",20210625 0401290000,wall street journal rais nearli billion,6,0.0,0
+240,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0401140000,china list frenzi us set,5,0.0,0
+241,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0401040000,china list frenzi us set,5,0.0,0
+243,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0400110000,china list frenzi us set,5,0.0,0
+245,"['wall', 'street', 'journal', 'rais', 'nearli', 'billion', 'busi']",20210625 0359020000,wall street journal rais nearli billion busi,7,0.0,0
+246,"['giant', 'set', 'middl', 'rang', 'list', 'new', 'york', 'stock', 'exchang', 'ticker', 'symbol', 'scale', 'approxim', 'billion']",20210625 0354220000,giant set middl rang list new york stock exchang ticker symbol scale approxim billion,14,0.0,0
+247,"['valuat', 'target', 'billion', 'billion', 'wall', 'street', 'journal']",20210625 0352350000,valuat target billion billion wall street journal,7,0.0,0
+248,"['china', 'list', 'frenzi', 'us', 'set', 'join', 'us', 'stock', 'invest']",20210625 0352340000,china list frenzi us set join us stock invest,9,0.296,0
+249,['us'],20210625 0335310000,us,1,0.0,0
+250,"['giant', 'look', 'rais', 'much', 'billion', 'one', 'biggest', 'us', 'last', 'decad']",20210625 0333020000,giant look rais much billion one biggest us last decad,10,0.0,0
+251,"['billion', 'us']",20210625 0332190000,billion us,2,0.0,0
+252,"['valuat', 'us']",20210625 0330030000,valuat us,2,0.0,0
+253,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0330020000,china list frenzi us set,5,0.0,0
+254,"['compani', 'rais']",20210625 0329070000,compani rais,2,0.0,0
+255,"['china', 'list', 'frenzi', 'us', 'set']",20210625 0329020000,china list frenzi us set,5,0.0,0
+256,"['china', 'list', 'frenzi', 'us', 'set', 'baba']",20210625 0324270000,china list frenzi us set baba,6,0.0,0
+257,"['valuat', 'us']",20210625 0320020000,valuat us,2,0.0,0
+258,"['domin', 'compani', 'seek', 'rais', 'billion', 'us', 'one', 'biggest', 'past', 'decad', 'biggest', 'list', 'us', 'sinc']",20210625 0318210000,domin compani seek rais billion us one biggest past decad biggest list us sinc,14,0.0,0
+259,"['valuat', 'us']",20210625 0311410000,valuat us,2,0.0,0
+260,"['giant', 'billion', 'valuat']",20210625 0310550000,giant billion valuat,3,0.0,0
+261,"['ride', 'firm', 'set', 'valuat', 'target', 'billion', 'billion']",20210625 0257160000,ride firm set valuat target billion billion,7,0.0,0
+262,"['compani', 'rais', 'billion', 'price', 'rang']",20210625 0246500000,compani rais billion price rang,5,0.0,0
+263,"['giant', 'billion', 'valuat']",20210625 0245260000,giant billion valuat,3,0.0,0
+265,"['billion', 'us']",20210625 0215080000,billion us,2,0.0,0
+266,"['infra', 'broadli', 'posit', 'global', 'guidanc']",20210625 0206140000,infra broadli posit global guidanc,5,0.0,0
+267,"['upcom', 'look', 'valuat', 'billion', 'mayb']",20210625 0201000000,upcom look valuat billion mayb,5,0.0,0
+268,"['rememb', 'money', 'back', 'block', 'expand', 'china', 'lead', 'withdraw', 'big', 'payday', 'valuat', 'target', 'billion', 'billion']",20210625 0150070000,rememb money back block expand china lead withdraw big payday valuat target billion billion,14,-0.1531,0
+269,"['look', 'come', 'giant', 'billion', 'valuat']",20210625 0148580000,look come giant billion valuat,5,0.0,0
+270,"['compani', 'rais']",20210625 0147260000,compani rais,2,0.0,0
+271,"['compani', 'rais']",20210625 0146420000,compani rais,2,0.0,0
+272,"['de', 'en', 'en']",20210625 0143090000,de en en,3,0.0,0
+273,"['valuat', 'target', 'billion', 'billion']",20210625 0139380000,valuat target billion billion,4,0.0,0
+274,"['giant', 'prospectu', 'aim', 'rais', 'billion', 'us']",20210625 0137360000,giant prospectu aim rais billion us,6,0.0,0
+275,"['giant', 'billion', 'valuat']",20210625 0131050000,giant billion valuat,3,0.0,0
+276,"['giant', 'billion', 'valuat']",20210625 0116180000,giant billion valuat,3,0.0,0
+278,"['giant', 'billion', 'valuat', 'technolog', 'digit', 'transform']",20210625 0115050000,giant billion valuat technolog digit transform,6,0.0,0
+279,"['giant', 'rais', 'much', 'billion', 'one', 'biggest', 'us', 'last', 'decad', 'valuat', 'would', 'reach', 'billion']",20210625 0112160000,giant rais much billion one biggest us last decad valuat would reach billion,13,0.0258,0
+280,"['giant', 'billion', 'valuat']",20210625 0110170000,giant billion valuat,3,0.0,0
+281,"['capit', 'partner', 'ben']",20210625 0107320000,capit partner ben,3,0.0,0
+282,"['billion', 'valuat']",20210625 0100290000,billion valuat,2,0.0,0
+283,"['giant', 'billion', 'valuat']",20210625 0050300000,giant billion valuat,3,0.0,0
+284,"['giant', 'billion', 'valuat']",20210625 0043050000,giant billion valuat,3,0.0,0
+285,"['giant', 'billion', 'us', 'that', 'market', 'valu', 'realli', 'big', 'far', 'high', 'end', 'rang']",20210625 0029350000,giant billion us that market valu realli big far high end rang,12,0.0,0
+286,"['giant', 'billion', 'valuat']",20210625 0022330000,giant billion valuat,3,0.0,0
+287,"['giant', 'billion', 'valuat']",20210625 0022330000,giant billion valuat,3,0.0,0
+288,"['w', 'account', 'oversight', 'usag', 'us', 'pension', 'fund', 'good', 'retail', 'make', 'compani', 'rais', 'billion', 'via']",20210625 0021140000,w account oversight usag us pension fund good retail make compani rais billion via,14,0.4404,0
+289,"['giant', 'look', 'rais', 'much', 'billion', 'one', 'biggest', 'us', 'last', 'decad']",20210625 0014570000,giant look rais much billion one biggest us last decad,10,0.0,0
+290,"['giant', 'billion', 'valuat', 'tech']",20210625 0011320000,giant billion valuat tech,4,0.0,0
+291,"['giant', 'billion', 'valuat']",20210625 0006320000,giant billion valuat,3,0.0,0
+292,"['giant', 'billion', 'valuat', 'technolog']",20210625 0006320000,giant billion valuat technolog,4,0.0,0
+293,"['giant', 'billion', 'valuat']",20210625 0003280000,giant billion valuat,3,0.0,0
+294,"['giant', 'billion', 'valuat']",20210625 0002250000,giant billion valuat,3,0.0,0
+295,"['valuat', 'target', 'billion', 'billion']",20210626 2304400000,valuat target billion billion,4,0.0,0
+296,"['giant', 'name', 'rais', 'billion', 'us', 'sell', 'million', 'share', 'compani', 'billion', 'valuat']",20210626 2300530000,giant name rais billion us sell million share compani billion valuat,11,0.296,0
+297,"['agre', 'base', 'baba', 'catalyst', 'rebound', 'big', 'invest', 'soon', 'ant', 'group', 'baba', 'govern', 'oversight', 'hong', 'market', 'ant', 'way']",20210626 2244470000,agre base baba catalyst rebound big invest soon ant group baba govern oversight hong market ant way,17,0.0,0
+298,"['besid', 'make', 'counterfeit', 'dollar', 'noth', 'file', 'cheat', 'dollar']",20210626 1904590000,besid make counterfeit dollar noth file cheat dollar,8,-0.4588,0
+299,"['despit', 'flat', 'growth', 'colossu', 'us', 'could', 'reach']",20210626 1815230000,despit flat growth colossu us could reach,7,0.4019,0
+300,"['rental', 'taxi', 'rais', 'fashion', 'retail', 'goe', 'work', 'known', 'big', 'failur', 'fail']",20210626 1547560000,rental taxi rais fashion retail goe work known big failur fail,11,-0.5423,0
+301,"['new', 'york', 'list']",20210626 1210350000,new york list,3,0.0,0
+302,"['us', 'week', 'ahead', 'debut', 'week']",20210626 1152320000,us week ahead debut week,5,0.0,0
+303,"['china', 'list', 'frenzi', 'us', 'set']",20210626 1038480000,china list frenzi us set,5,0.0,0
+304,"['damn', 'imagin', 'sheer', 'offic', 'must', 'gone', 'cutthroat', 'price', 'war', 'south', 'final', 'give', 'fund', 'massiv']",20210626 0933340000,damn imagin sheer offic must gone cutthroat price war south final give fund massiv,14,-0.765,0
+305,"['china', 'list', 'frenzi', 'us', 'set']",20210626 0905400000,china list frenzi us set,5,0.0,0
+306,"['ambiti', 'china', 'crackdown', 'cash', 'burn', 'yahoo']",20210626 0853450000,ambiti china crackdown cash burn yahoo,6,0.0,-1
+307,"['compani', 'rais', 'billion', 'price', 'rang']",20210626 0751320000,compani rais billion price rang,5,0.0,0
+308,"['epic', 'us', 'china', 'crackdown', 'cash', 'burn', 'news', 'latest']",20210626 0749320000,epic us china crackdown cash burn news latest,8,0.0,0
+309,"['ambiti', 'china', 'crackdown', 'cash', 'burn']",20210626 0739350000,ambiti china crackdown cash burn,5,0.0,-1
+310,"['stock', 'loser', 'start']",20210626 0725510000,stock loser start,3,-0.5267,-1
+311,"['da', 'de', 'us', 'em', 'na', 'de']",20210626 0720250000,da de us em na de,6,0.0,0
+312,"['epic', 'us', 'china', 'crackdown', 'cash', 'burn']",20210626 0706420000,epic us china crackdown cash burn,6,0.0,-1
+313,"['epic', 'us', 'china', 'crackdown', 'cash', 'burn', 'within', 'strike', 'distanc', 'one', 'biggest', 'us', 'past', 'decad']",20210626 0703380000,epic us china crackdown cash burn within strike distanc one biggest us past decad,14,-0.128,-1
+314,['valuat'],20210626 0603510000,valuat,1,0.0,0
+315,"['giant', 'us']",20210626 0558560000,giant us,2,0.0,0
+317,"['us', 'week', 'ahead', 'debut', 'week']",20210626 0426030000,us week ahead debut week,5,0.0,0
+318,"['epic', 'us', 'china', 'crackdown', 'cash']",20210626 0400170000,epic us china crackdown cash,5,0.0,-1
+319,"['know', 'play', 'stock', 'stock']",20210626 0400070000,know play stock stock,4,0.34,0
+320,"['watch', 'billion', 'much', 'got', 'stake', 'billion', 'valuat', 'giant', 'could', 'get', 'immin', 'new', 'york', 'take', 'look', 'week']",20210626 0400010000,watch billion much got stake billion valuat giant could get immin new york take look week,16,0.0,0
+321,"['giant', 'reportedli', 'billion', 'valuat', 'upcom', 'us', 'larg', 'busi', 'countri', 'enemi']",20210626 0353140000,giant reportedli billion valuat upcom us larg busi countri enemi,10,0.0,0
+322,"['billion', 'much', 'got', 'stake', 'billion', 'valuat', 'giant', 'could', 'get', 'immin', 'new', 'york', 'take', 'look', 'week']",20210626 0350000000,billion much got stake billion valuat giant could get immin new york take look week,15,0.0,0
+323,"['next', 'week']",20210626 0319020000,next week,2,0.0,0
+324,"['watch', 'billion', 'much', 'got', 'stake', 'billion', 'valuat', 'giant', 'could', 'get', 'immin', 'new', 'york', 'take', 'look', 'week']",20210626 0310000000,watch billion much got stake billion valuat giant could get immin new york take look week,16,0.0,0
+325,"['firm', 'billion', 'valuat']",20210626 0248110000,firm billion valuat,3,0.0,0
+326,"['epic', 'us', 'china', 'crackdown', 'cash', 'burn', 'busi', 'economi', 'news']",20210626 0245140000,epic us china crackdown cash burn busi economi news,9,0.0,0
+328,"['debut', 'new', 'york', 'stock', 'exchang', 'biggest', 'us', 'via', 'entrepreneur']",20210626 0145190000,debut new york stock exchang biggest us via entrepreneur,9,0.0,0
+329,"['end', 'back', 'previou', 'high', 'baba', 'biggest', 'sharehold', 'soon', 'ant', 'financ', 'green', 'light', 'baba', 'rebound', 'soon']",20210626 0131410000,end back previou high baba biggest sharehold soon ant financ green light baba rebound soon,15,0.0,1
+330,"['stori', 'firm', 'cover', 'first', 'day', 'see']",20210626 0112280000,stori firm cover first day see,6,0.0,0
+331,"['baba', 'time', 'upcom', 'major', 'sharehold', 'baba', 'ant', 'financ', 'almost', 'close', 'baba', 'also', 'baba', 'time', 'back', 'soon']",20210626 0028530000,baba time upcom major sharehold baba ant financ almost close baba also baba time back soon,16,0.0,0
+332,"['us', 'week', 'ahead', 'debut']",20210626 0023290000,us week ahead debut,4,0.0,0
+333,"['us', 'week', 'ahead', 'debut', 'week']",20210626 0008360000,us week ahead debut week,5,0.0,0
+334,"['us', 'week', 'ahead', 'debut', 'week', 'busi']",20210626 0000470000,us week ahead debut week busi,6,0.0,0
+336,['upcom'],20210627 2347010000,upcom,1,0.0,0
+338,"['believ', 'boost']",20210627 2203460000,believ boost,2,0.4019,0
+339,"['market', 'debut', 'news', 'glue', 'miro', 'bon', 'fa']",20210627 2100260000,market debut news glue miro bon fa,7,0.0,0
+340,"['giant', 'billion', 'valuat']",20210627 1830250000,giant billion valuat,3,0.0,0
+341,"['would', 'market', 'middl', 'price', 'rang', 'base', 'number', 'class', 'b', 'list', 'previous', 'valu', 'round']",20210627 1826170000,would market middl price rang base number class b list previous valu round,13,0.0772,0
+343,"['thank', 'free', 'time', 'person', 'time', 'june', 'week', 'much', 'rate', 'go', 'excit', 'week']",20210627 1554230000,thank free time person time june week much rate go excit week,12,0.7003,0
+344,"['global', 'valuat', 'look', 'rais', 'sell', 'million', 'depositari', 'assum', 'price', 'target', 'rang', 'per']",20210627 1518360000,global valuat look rais sell million depositari assum price target rang per,12,0.0,0
+345,"['ride', 'servic', 'provid', 'us', 'rais', 'billion', 'us', 'provid', 'aim', 'price', 'rang', 'share', 'certif', 'us', 'innov']",20210627 1457350000,ride servic provid us rais billion us provid aim price rang share certif us innov,15,0.296,0
+346,"['lot', 'look', 'forward', 'thank', 'insight', 'dingdong', 'hope', 'quit', 'success', 'would', 'also', 'like', 'week', 'end', 'least', 'make', 'declin']",20210627 1452310000,lot look forward thank insight dingdong hope quit success would also like week end least make declin,17,0.891,0
+348,"['valuat', 'target', 'billion', 'billion', 'compani', 'rais', 'billion', 'price', 'rang']",20210627 1312150000,valuat target billion billion compani rais billion price rang,9,0.0,0
+349,"['antitrust', 'watchdog', 'probe', 'ahead', 'manipul', 'think', 'market', 'alreadi', 'risk', 'antitrust', 'action', 'free', 'read']",20210627 1308050000,antitrust watchdog probe ahead manipul think market alreadi risk antitrust action free read,13,0.296,-1
+350,"['excel', 'global', 'merchant', 'like', 'platform', 'complex']",20210627 1120510000,excel global merchant like platform complex,6,0.6705,0
+351,"['ride', 'new', 'york', 'stock', 'exchang', 'biggest', 'us', 'compani', 'current', 'valu', 'biggest', 'sharehold']",20210627 1109530000,ride new york stock exchang biggest us compani current valu biggest sharehold,12,0.0,0
+352,"['boycott', 'winter', 'billion', 'valuat']",20210627 0922310000,boycott winter billion valuat,4,-0.3182,0
+353,"['global', 'compani', 'aim', 'valuat', 'billion', 'initi', 'public', 'invest']",20210627 0815300000,global compani aim valuat billion initi public invest,8,0.0,0
+354,"['valuat', 'target', 'follow', 'firm', 'crackdown']",20210627 0634480000,valuat target follow firm crackdown,5,0.0,-1
+357,"['billion', 'valuat']",20210627 0520100000,billion valuat,2,0.0,0
+363,"['ride', 'giant', 'rais', 'list', 'new', 'york', 'stock', 'exchang', 'make', 'one', 'biggest', 'year', 'list', 'would', 'valu', 'compani']",20210627 0237460000,ride giant rais list new york stock exchang make one biggest year list would valu compani,16,0.0,0
+364,"['giant', 'rais', 'list', 'new', 'york', 'stock', 'exchang', 'make', 'one', 'biggest', 'year', 'list', 'would', 'valu', 'compani']",20210627 0228500000,giant rais list new york stock exchang make one biggest year list would valu compani,15,0.0,0
+365,['japan'],20210627 0100210000,japan,1,0.0,0
+366,"['cusp', 'one', 'biggest', 'us', 'past', 'decad', 'crackdown', 'tech', 'spoil', 'parti', 'via', 'technolog']",20210627 0038480000,cusp one biggest us past decad crackdown tech spoil parti via technolog,12,0.0,0
+367,"['billion', 'us', 'fulli', 'cover']",20210627 0031370000,billion us fulli cover,4,0.0,0
+368,"['hi', 'know', 'youv', 'mention', 'stock', 'might', 'well', 'short', 'term', 'like']",20210628 2348230000,hi know youv mention stock might well short term like,10,0.5574,0
+369,"['would', 'tri', 'get', 'mani']",20210628 2330130000,would tri get mani,4,0.0,0
+370,"['taxi', 'court', 'troubl', 'situat', 'taxi']",20210628 2325150000,taxi court troubl situat taxi,5,0.0,0
+371,"['applic', 'insid', 'vehicl', 'global', 'china', 'could', 'deliv', 'initi', 'public', 'offer', 'year', 'trade', 'week']",20210628 2325000000,applic insid vehicl global china could deliv initi public offer year trade week,13,0.0,0
+372,"['la', 'de', 'de', 'con', 'en', 'china', 'global', 'el', 'da', 'de', 'en', 'de', 'mil', 'para', 'de', 'mil', 'es', 'el', 'chino']",20210628 2312500000,la de de con en china global el da de en de mil para de mil es el chino,19,0.0,0
+374,"['lose', 'share', 'what', 'left', 'neg', 'need', 'work', 'get']",20210628 2236160000,lose share what left neg need work get,8,-0.128,0
+375,"['giant', 'billion', 'valuat']",20210628 2232360000,giant billion valuat,3,0.0,0
+376,"['despit', 'big', 'drop', 'valuat', 'still', 'think', 'expect', 'make', 'money']",20210628 2227030000,despit big drop valuat still think expect make money,9,-0.2732,0
+377,"['despit', 'big', 'drop', 'valuat', 'still', 'think', 'expect', 'make', 'money']",20210628 2226030000,despit big drop valuat still think expect make money,9,-0.2732,0
+378,"['el', 'chino', 'opera', 'en', 'para', 'debut', 'de', 'el']",20210628 2127500000,el chino opera en para debut de el,8,0.0,0
+379,"['china', 'lot', 'young', 'peopl', 'right']",20210628 2109340000,china lot young peopl right,5,0.0,0
+380,"['stock', 'go', 'public', 'stock', 'price', 'rang']",20210628 2055350000,stock go public stock price rang,6,0.0,0
+381,"['stock', 'buy', 'digit', 'asset', 'review', 'dingdong', 'stock', 'go', 'public', 'june', 'review', 'global', 'stock', 'go', 'public', 'june']",20210628 2028400000,stock buy digit asset review dingdong stock go public june review global stock go public june,16,0.3612,0
+382,"['sur', 'gant', 'lever', 'de']",20210628 2016400000,sur gant lever de,4,0.0,0
+383,"['check', 'articl', 'know', 'giant', 'rais', 'nearli', 'billion']",20210628 2010030000,check articl know giant rais nearli billion,7,0.0,0
+384,"['go', 'public', 'stock', 'price', 'rang', 'invest', 'stock']",20210628 2006020000,go public stock price rang invest stock,7,0.0,0
+385,"['know', 'giant', 'rais', 'nearli', 'billion']",20210628 2004380000,know giant rais nearli billion,5,0.0,0
+386,"['kick', 'hot', 'summer']",20210628 2003320000,kick hot summer,3,0.0,0
+387,"['go', 'public', 'stock', 'price', 'rang']",20210628 1952480000,go public stock price rang,5,0.0,0
+388,"['week', 'easi', 'read', 'format']",20210628 1946140000,week easi read format,4,0.0,0
+389,"['one', 'sheet', 'dislik', 'toss', 'valuat']",20210628 1926110000,one sheet dislik toss valuat,5,0.0,0
+390,"['order', 'close', 'econom', 'time']",20210628 1911530000,order close econom time,4,0.0,0
+391,"['order', 'close']",20210628 1909110000,order close,2,0.0,0
+392,"['giant', 'billion', 'us']",20210628 1849580000,giant billion us,3,0.0,0
+394,"['china', 'list', 'frenzi', 'us', 'set']",20210628 1755010000,china list frenzi us set,5,0.0,0
+395,"['order', 'us', 'china']",20210628 1731000000,order us china,3,0.0,0
+396,"['order', 'close']",20210628 1638440000,order close,2,0.0,0
+397,"['de', 'de', 'us', 'da']",20210628 1618340000,de de us da,4,0.0,0
+398,"['de', 'de', 'us', 'da', 'ae', 'china']",20210628 1615030000,de de us da ae china,6,0.0,0
+399,"['order', 'book', 'close', 'today']",20210628 1613220000,order book close today,4,0.0,0
+400,"['de', 'de', 'us', 'da']",20210628 1611200000,de de us da,4,0.0,0
+401,"['global', 'close', 'order', 'book', 'us', 'rais', 'billion', 'one', 'day', 'earli']",20210628 1530000000,global close order book us rais billion one day earli,10,0.0,0
+402,"['order', 'close']",20210628 1515100000,order close,2,0.0,0
+403,"['electr', 'last', 'mile', 'dingdong', 'clear', 'integr', 'ad', 'scienc']",20210628 1442590000,electr last mile dingdong clear integr ad scienc,8,0.3818,0
+404,"['firm', 'cover', 'first', 'day']",20210628 1430410000,firm cover first day,4,0.0,0
+405,"['us', 'market', 'brace']",20210628 1423340000,us market brace,3,0.0,0
+406,"['check', 'articl', 'giant', 'offer', 'million', 'price']",20210628 1355020000,check articl giant offer million price,6,0.0,0
+407,"['small', 'cap', 'play', 'one', 'yr']",20210628 1342050000,small cap play one yr,5,0.34,0
+408,"['china', 'tomorrow', 'strateg', 'partnership', 'june', 'activ', 'play', 'word', 'day', 'breakout', 'possibl', 'upsid', 'move']",20210628 1337590000,china tomorrow strateg partnership june activ play word day breakout possibl upsid move,13,0.34,0
+411,"['lead', 'plan', 'list', 'hong', 'reviv', 'billion', 'data', 'center', 'end', 'us', 'subscript', 'one', 'day', 'ahead', 'schedul']",20210628 1330000000,lead plan list hong reviv billion data center end us subscript one day ahead schedul,15,0.0,0
+413,"['bom', 'da', 'e', 'da', 'e', 'na', 'em', 'patamar', 'para', 'na']",20210628 1323410000,bom da e da e na em patamar para na,10,0.0,1
+414,"['upcom', 'look', 'technolog', 'compani', 'base', 'china', 'deliveri', 'rank', 'among', 'biggest', 'privat', 'world']",20210628 1313220000,upcom look technolog compani base china deliveri rank among biggest privat world,12,0.0,1
+415,"['global', 'mayb', 'see', 'updat', 'order']",20210628 1253340000,global mayb see updat order,5,0.0,0
+416,"['delta', 'what', 'move']",20210628 1246430000,delta what move,3,0.0,0
+417,"['top', 'us', 'unit', 'line', 'larg', 'aircraft', 'order', 'hit', 'drug', 'close', 'order', 'today', 'much']",20210628 1246180000,top us unit line larg aircraft order hit drug close order today much,13,0.2023,-1
+418,"['market', 'debut', 'news', 'glue', 'miro', 'bon', 'fa']",20210628 1238050000,market debut news glue miro bon fa,7,0.0,0
+419,"['global', 'close', 'investor', 'order', 'continu', 'read']",20210628 1234470000,global close investor order continu read,6,0.0,0
+420,['big'],20210628 1226040000,big,1,0.0,0
+421,"['delta', 'what', 'move']",20210628 1221040000,delta what move,3,0.0,0
+422,"['seek', 'upcom']",20210628 1215050000,seek upcom,2,0.0,0
+423,"['spi', 'delta', 'what', 'move']",20210628 1210590000,spi delta what move,4,0.0,0
+424,"['giant', 'offer', 'million', 'price']",20210628 1149430000,giant offer million price,4,0.0,0
+425,"['us', 'trade', 'stock', 'financi']",20210628 1143280000,us trade stock financi,4,0.0,0
+426,"['order', 'close']",20210628 1142410000,order close,2,0.0,0
+427,"['order', 'close']",20210628 1136510000,order close,2,0.0,0
+428,"['global', 'close', 'investor', 'order']",20210628 1122180000,global close investor order,4,0.0,0
+429,"['offer', 'price', 'commentari']",20210628 1113510000,offer price commentari,3,0.0,0
+430,"['offer', 'price', 'news']",20210628 1112100000,offer price news,3,0.0,0
+431,"['group', 'offer', 'million']",20210628 1106250000,group offer million,3,0.0,0
+432,"['global', 'us', 'price']",20210628 1100450000,global us price,3,0.0,0
+433,"['global', 'close', 'investor', 'order', 'coin']",20210628 1056590000,global close investor order coin,5,0.0,0
+434,"['global', 'close', 'investor', 'order']",20210628 1055570000,global close investor order,4,0.0,0
+435,"['giant', 'offer', 'million', 'price']",20210628 1053250000,giant offer million price,4,0.0,0
+436,"['global', 'investor', 'order', 'us', 'one', 'day', 'earli', 'today', 'accord', 'set', 'price', 'rang', 'per', 'depositari']",20210628 1036530000,global investor order us one day earli today accord set price rang per depositari,14,0.0,0
+437,"['sell', 'file']",20210628 1033030000,sell file,2,0.0,0
+438,"['delta', 'what', 'move', 'yahoo', 'financ']",20210628 1029050000,delta what move yahoo financ,5,0.0,0
+439,"['delta', 'what', 'move']",20210628 1023470000,delta what move,3,0.0,0
+440,"['start', 'unwil', 'make', 'month', 'end', 'major', 'focu', 'celebr', 'anniversari', 'hold', 'tomorrow', 'japan', 'list', 'wed', 'scale']",20210628 1000360000,start unwil make month end major focu celebr anniversari hold tomorrow japan list wed scale,15,0.0,0
+441,"['global', 'close']",20210628 0930020000,global close,2,0.0,0
+443,"['two', 'day', 'go', 'initi', 'public', 'offer', 'seen', 'excess', 'demand', 'compani', 'achiev', 'origin', 'intend', 'lofti', 'list', 'price', 'still', 'success', 'amongst']",20210628 0902010000,two day go initi public offer seen excess demand compani achiev origin intend lofti list price still success amongst,19,0.4939,1
+444,"['week', 'ahead', 'mu', 'shop', 'develop', 'confer', 'china', 'market', 'cap', 'wed', 'meet', 'oil', 'us', 'recoveri', 'momentum', 'report', 'new', 'seen']",20210628 0857520000,week ahead mu shop develop confer china market cap wed meet oil us recoveri momentum report new seen,18,0.0,0
+445,"['order', 'close']",20210628 0840100000,order close,2,0.0,0
+446,"['conserv', 'billion', 'valuat', 'upcom']",20210628 0839210000,conserv billion valuat upcom,4,0.0,0
+447,"['conserv', 'billion', 'valuat', 'upcom']",20210628 0834520000,conserv billion valuat upcom,4,0.0,0
+448,"['ambit', 'china', 'crackdown', 'cash', 'burn', 'sinc', 'cash', 'burn', 'matter']",20210628 0812470000,ambit china crackdown cash burn sinc cash burn matter,9,0.0258,-1
+449,"['order', 'close']",20210628 0746540000,order close,2,0.0,0
+450,"['order', 'close']",20210628 0741180000,order close,2,0.0,0
+451,"['via', 'global', 'investor', 'order', 'us', 'one', 'day', 'earli', 'accord', 'set', 'price']",20210628 0727330000,via global investor order us one day earli accord set price,11,0.0,0
+452,"['billion', 'order', 'close', 'june', 'biggest', 'firm', 'global', 'close', 'investor', 'order', 'us', 'initi', 'public', 'offer', 'rais', 'billion']",20210628 0719280000,billion order close june biggest firm global close investor order us initi public offer rais billion,16,0.0,0
+453,"['daili', 'digest', 'china', 'giant', 'file', 'target', 'driverless', 'car', 'firm', 'execut', 'first']",20210628 0716220000,daili digest china giant file target driverless car firm execut first,11,0.0,0
+454,"['order', 'close']",20210628 0714330000,order close,2,0.0,0
+455,"['order', 'close', 'today']",20210628 0713050000,order close today,3,0.0,0
+456,"['di', 'per', 'per', 'un', 'da', 'di']",20210628 0708570000,di per per un da di,6,0.0,0
+457,"['billion', 'order', 'close']",20210628 0641200000,billion order close,3,0.0,0
+458,"['order', 'close']",20210628 0635080000,order close,2,0.0,0
+459,"['worth', 'much', 'less', 'valuat', 'mobil', 'china']",20210628 0621030000,worth much less valuat mobil china,6,0.2263,0
+460,"['order', 'close']",20210628 0619040000,order close,2,0.0,0
+461,"['order', 'close']",20210628 0615420000,order close,2,0.0,0
+462,"['billion', 'order', 'close', 'news']",20210628 0602320000,billion order close news,4,0.0,-1
+463,"['littl', 'move', 'record', 'exchang', 'still', 'bullish', 'assum', 'sma', 'day', 'earli', 'oil', 'near', 'resist']",20210628 0549210000,littl move record exchang still bullish assum sma day earli oil near resist,13,0.0,1
+464,"['order', 'close', 'post', 'bandi', 'biggest', 'firm', 'global', 'close', 'investor', 'order', 'us', 'initi', 'public', 'offer', 'rais', 'billion', 'one', 'day', 'earli', 'two', 'peopl']",20210628 0536360000,order close post bandi biggest firm global close investor order us initi public offer rais billion one day earli two peopl,21,0.0,0
+465,"['order', 'close']",20210628 0533320000,order close,2,0.0,0
+466,"['order', 'close', 'via', 'fox', 'financ', 'busi', 'news']",20210628 0513130000,order close via fox financ busi news,7,0.0,0
+467,"['billion', 'order', 'close']",20210628 0458280000,billion order close,3,0.0,0
+468,"['giant', 'global', 'new', 'york', 'initi', 'public', 'offer', 'rais', 'billion', 'fulli', 'cover', 'first', 'day', 'accord', 'four', 'direct', 'knowledg']",20210628 0450000000,giant global new york initi public offer rais billion fulli cover first day accord four direct knowledg,17,0.0,0
+470,"['order', 'close']",20210628 0444410000,order close,2,0.0,0
+472,"['billion', 'order', 'close']",20210628 0435060000,billion order close,3,0.0,0
+473,"['tech', 'order', 'close']",20210628 0421080000,tech order close,3,0.0,0
+474,"['billion', 'order', 'close', 'via']",20210628 0357300000,billion order close via,4,0.0,0
+475,"['order', 'close']",20210628 0349290000,order close,2,0.0,0
+476,"['new', 'post', 'billion', 'order', 'close', 'daili', 'investor']",20210628 0346240000,new post billion order close daili investor,7,0.0,0
+477,"['billion', 'order', 'close']",20210628 0346060000,billion order close,3,0.0,0
+478,"['billion', 'order', 'close']",20210628 0341380000,billion order close,3,0.0,0
+479,"['billion', 'order', 'close', 'join', 'us', 'stock', 'invest']",20210628 0341330000,billion order close join us stock invest,7,0.296,0
+480,"['billion', 'order', 'close']",20210628 0341330000,billion order close,3,0.0,0
+481,"['billion', 'order', 'close']",20210628 0337330000,billion order close,3,0.0,0
+482,"['billion', 'order', 'close', 'good', 'sourc']",20210628 0333060000,billion order close good sourc,5,0.4404,0
+483,"['order', 'close']",20210628 0330060000,order close,2,0.0,0
+484,"['said', 'close', 'us', 'across']",20210628 0259310000,said close us across,4,0.0,0
+485,"['giant', 'valuat', 'could', 'still', 'biggest', 'us', 'year']",20210628 0212030000,giant valuat could still biggest us year,7,0.0,0
+486,"['hot', 'new']",20210628 0208500000,hot new,2,0.0,0
+489,"['billion', 'us']",20210629 2352370000,billion us,2,0.0,0
+490,"['giant', 'famous', 'elbow', 'china', 'price', 'share', 'tell']",20210629 2351280000,giant famous elbow china price share tell,7,0.296,0
+491,"['billion', 'us', 'report']",20210629 2350160000,billion us report,3,0.0,0
+492,"['global', 'billion', 'unit']",20210629 2342070000,global billion unit,3,0.0,0
+493,"['servic', 'trade']",20210629 2340250000,servic trade,2,0.0,0
+494,"['us', 'top', 'rais', 'billion']",20210629 2338410000,us top rais billion,4,0.2023,0
+495,"['giant', 'start', 'trade', 'via']",20210629 2337550000,giant start trade via,4,0.0,0
+496,"['billion', 'us', 'one', 'news', 'network']",20210629 2337440000,billion us one news network,5,0.0,0
+497,"['billion', 'us']",20210629 2333280000,billion us,2,0.0,0
+498,"['ban', 'china', 'us', 'stock', 'billion', 'us']",20210629 2332260000,ban china us stock billion us,6,-0.5574,0
+499,"['billion', 'us']",20210629 2331500000,billion us,2,0.0,0
+500,"['billion', 'us']",20210629 2330380000,billion us,2,0.0,0
+501,"['billion', 'us']",20210629 2330020000,billion us,2,0.0,0
+502,"['open', 'tomorrow']",20210629 2326100000,open tomorrow,2,0.0,0
+503,"['odd', 'china', 'invest', 'pay', 'get', 'bal', 'sheet', 'via', 'good', 'thread', 'nice', 'call', 'man', 'littl', 'prior', 'experi', 'ran', 'local', 'china']",20210629 2317190000,odd china invest pay get bal sheet via good thread nice call man littl prior experi ran local china,19,0.4588,0
+505,"['billion', 'us']",20210629 2315040000,billion us,2,0.0,0
+506,"['tomorrow', 'day', 'long', 'anoth', 'stock', 'port', 'tomorrow']",20210629 2314500000,tomorrow day long anoth stock port tomorrow,7,0.0,0
+507,"['dow', 'market', 'ralli', 'rise', 'appl', 'near', 'buy', 'billion', 'busi', 'daili']",20210629 2310450000,dow market ralli rise appl near buy billion busi daili,10,0.0,1
+508,"['billion', 'us']",20210629 2310050000,billion us,2,0.0,0
+509,['global'],20210629 2309360000,global,1,0.0,0
+510,"['global', 'billion', 'unit']",20210629 2308100000,global billion unit,3,0.0,0
+511,"['global', 'share']",20210629 2302350000,global share,2,0.296,0
+513,"['billion', 'us']",20210629 2254100000,billion us,2,0.0,0
+514,"['start', 'trade']",20210629 2247260000,start trade,2,0.0,0
+517,"['billion', 'us']",20210629 2241020000,billion us,2,0.0,0
+518,"['global', 'share']",20210629 2240120000,global share,2,0.296,0
+519,"['firm', 'cover', 'first', 'day']",20210629 2239330000,firm cover first day,4,0.0,0
+520,"['new', 'global', 'china', 'leader']",20210629 2229000000,new global china leader,4,0.0,0
+521,"['global', 'said', 'price', 'us']",20210629 2227420000,global said price us,4,0.0,0
+522,"['excit', 'list', 'tomorrow']",20210629 2227400000,excit list tomorrow,3,0.0,0
+523,"['yep', 'got', 'last', 'week', 'one', 'one', 'realli', 'didnt', 'check', 'soon', 'enough']",20210629 2224350000,yep got last week one one realli didnt check soon enough,11,0.296,0
+524,"['giant', 'billion', 'valuat']",20210629 2223500000,giant billion valuat,3,0.0,0
+525,"['alto', 'ser', 'q']",20210629 2222580000,alto ser q,3,0.0,0
+526,"['billion', 'us']",20210629 2221390000,billion us,2,0.0,0
+527,"['updat', 'billion', 'us', 'baba']",20210629 2221250000,updat billion us baba,4,0.0,0
+528,"['lote', 'de', 'na']",20210629 2218240000,lote de na,3,0.0,0
+529,"['billion', 'us', 'price', 'give', 'valuat', 'fulli', 'dilut', 'basi']",20210629 2216520000,billion us price give valuat fulli dilut basi,8,0.0,0
+530,"['da', 'topo', 'da', 'e', 'us']",20210629 2214340000,da topo da e us,5,0.0,0
+531,"['firm', 'global', 'said', 'price', 'top', 'rang']",20210629 2207160000,firm global said price top rang,6,0.2023,0
+532,"['billion', 'us', 'sourc', 'join', 'us', 'stock', 'invest']",20210629 2206030000,billion us sourc join us stock invest,7,0.296,0
+533,"['see', 'final', 'access', 'put', 'top', 'rang', 'find', 'tomorrow']",20210629 2204560000,see final access put top rang find tomorrow,8,0.2023,0
+534,"['firm', 'global', 'said', 'price', 'top', 'rang']",20210629 2202390000,firm global said price top rang,6,0.2023,0
+535,"['billion', 'us', 'price', 'give', 'valuat', 'fulli', 'dilut', 'basi']",20210629 2154130000,billion us price give valuat fulli dilut basi,8,0.0,0
+536,"['china', 'decad', 'list', 'china', 'tomorrow', 'market', 'cap', 'billion', 'conserv', 'valuat', 'day', 'atyp']",20210629 2152510000,china decad list china tomorrow market cap billion conserv valuat day atyp,12,0.0,0
+537,['tomorrow'],20210629 2151320000,tomorrow,1,0.0,0
+538,"['cautious', 'huge', 'new', 'york', 'via']",20210629 2150310000,cautious huge new york via,5,0.2263,0
+539,"['global', 'goliath', 'global', 'price', 'accord', 'peopl', 'familiar', 'matter', 'set', 'stage', 'compani', 'begin', 'trade', 'made', 'pitch', 'potenti']",20210629 2147370000,global goliath global price accord peopl familiar matter set stage compani begin trade made pitch potenti,16,0.0258,0
+540,"['global', 'accord', 'global', 'price', 'rang', 'debut']",20210629 2144370000,global accord global price rang debut,6,0.0,0
+541,"['compani', 'share', 'via']",20210629 2141590000,compani share via,3,0.296,0
+542,"['global', 'price', 'per', 'share', 'accord', 'begin', 'trade', 'sometim', 'tomorrow']",20210629 2140540000,global price per share accord begin trade sometim tomorrow,9,0.296,0
+543,"['cautious', 'huge', 'new', 'york', 'via', 'china']",20210629 2140180000,cautious huge new york via china,6,0.2263,0
+544,"['even', 'dingdong', 'everyth']",20210629 2135200000,even dingdong everyth,3,0.0,0
+545,"['global', 'said', 'price', 'us']",20210629 2130070000,global said price us,4,0.0,0
+546,"['global', 'said', 'price', 'us']",20210629 2126520000,global said price us,4,0.0,0
+547,"['scoop', 'cross', 'per', 'news', 'come', 'soon']",20210629 2121470000,scoop cross per news come soon,6,0.1531,0
+548,"['compani', 'price', 'start', 'trade']",20210629 2118010000,compani price start trade,4,0.0,0
+549,"['valuat', 'target', 'billion', 'billion']",20210629 2100030000,valuat target billion billion,4,0.0,0
+550,"['valuat', 'better', 'valu', 'like', 'twice', 'revenu', 'actual', 'profit', 'albeit', 'slightli', 'still', 'better', 'seemingli', 'unend', 'deep']",20210629 2019130000,valuat better valu like twice revenu actual profit albeit slightli still better seemingli unend deep,15,0.8807,1
+551,"['nobodi', 'talk', 'chatter']",20210629 2015240000,nobodi talk chatter,3,0.0,0
+552,"['tomorrow', 'china', 'china']",20210629 2009260000,tomorrow china china,3,0.0,0
+553,"['global', 'billion', 'us']",20210629 2002320000,global billion us,3,0.0,0
+554,"['pretti', 'big', 'tomorrow']",20210629 1951130000,pretti big tomorrow,3,0.0,0
+555,"['watch', 'love', 'someday', 'like', 'tomorrow', 'dont', 'see', 'need', 'rush', 'buy', 'day', 'unless', 'day', 'alway', 'anoth', 'day', 'especi', 'big', 'posit']",20210629 1946530000,watch love someday like tomorrow dont see need rush buy day unless day alway anoth day especi big posit,19,0.7717,0
+556,"['global', 'billion', 'us']",20210629 1939360000,global billion us,3,0.0,0
+557,"['na', 'de', 'de', 'nova', 'york', 'ser', 'da', 'de', 'us', 'em', 'de', 'us']",20210629 1936120000,na de de nova york ser da de us em de us,12,0.0,1
+558,"['cheap', 'play', 'tomorrow']",20210629 1930360000,cheap play tomorrow,3,0.34,0
+559,"['e', 'us', 'na', 'topo', 'da', 'da', 'de']",20210629 1930280000,e us na topo da da de,7,0.0,0
+560,"['global', 'billion', 'us', 'economi', 'trade', 'busi']",20210629 1927170000,global billion us economi trade busi,6,0.0,0
+561,"['might', 'well', 'dont', 'like', 'open', 'mani', 'stock', 'like', 'follow', 'june']",20210629 1923240000,might well dont like open mani stock like follow june,10,0.3591,0
+562,"['wouldnt', 'better', 'win', 'china', 'invest', 'get', 'return', 'valuat']",20210629 1917120000,wouldnt better win china invest get return valuat,8,-0.6681,0
+563,"['insid', 'next', 'compani', 'price', 'start', 'trade']",20210629 1859130000,insid next compani price start trade,6,0.0,0
+564,"['current', 'think', 'tomorrow']",20210629 1835370000,current think tomorrow,3,0.0,0
+565,"['compani', 'trade', 'tomorrow', 'trade', 'ticker', 'equival', 'profit']",20210629 1827280000,compani trade tomorrow trade ticker equival profit,7,0.4404,0
+566,"['know', 'stock', 'ahead', 'launch']",20210629 1827040000,know stock ahead launch,4,0.0,0
+567,"['guid', 'us', 'top', 'rang']",20210629 1820580000,guid us top rang,4,0.2023,0
+568,"['onto', 'along']",20210629 1820310000,onto along,2,0.0,0
+569,"['tomorrow', 'anyon']",20210629 1750030000,tomorrow anyon,2,0.0,0
+570,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1748530000,share price top rang sourc,5,0.4588,0
+571,"['da', 'da']",20210629 1737480000,da da,2,0.0,0
+572,"['tomorrow', 'number', 'ride', 'compani', 'also', 'serv', 'russia', 'japan', 'brazil', 'well', 'benefit', 'plu', 'billion', 'invest', 'earli']",20210629 1732440000,tomorrow number ride compani also serv russia japan brazil well benefit plu billion invest earli,15,0.6597,0
+573,"['said', 'guid', 'us', 'top', 'rang']",20210629 1731360000,said guid us top rang,5,0.2023,0
+574,"['new', 'global', 'china', 'thread']",20210629 1730570000,new global china thread,4,0.0,0
+575,"['new', 'global', 'china', 'thread']",20210629 1730160000,new global china thread,4,0.0,0
+576,"['immin', 'compani', 'price', 'start', 'trade']",20210629 1730080000,immin compani price start trade,5,0.0,0
+577,"['cautious', 'huge', 'new', 'york']",20210629 1727350000,cautious huge new york,4,0.2263,0
+578,"['cautious', 'huge', 'new', 'york']",20210629 1718040000,cautious huge new york,4,0.2263,0
+579,"['reportedli', 'price', 'rang']",20210629 1716270000,reportedli price rang,3,0.0,0
+580,"['hoy', 'en', 'la', 'con', 'mayor', 'valor', 'de', 'de', 'la']",20210629 1715310000,hoy en la con mayor valor de de la,9,0.0,0
+581,"['da', 'da', 'da', 'da', 'de', 'ae', 'da']",20210629 1709010000,da da da da de ae da,7,0.0,0
+582,"['us', 'dari', 'di', 'new', 'york']",20210629 1707200000,us dari di new york,5,0.0,0
+583,"['sever', 'ahead', 'massiv']",20210629 1702470000,sever ahead massiv,3,0.0,0
+584,"['daili', 'june', 'edit', 'dynam']",20210629 1657280000,daili june edit dynam,4,0.0,0
+585,"['lot', 'ride', 'success', 'rival']",20210629 1655280000,lot ride success rival,4,0.5719,0
+586,"['less', 'went', 'beat', 'china', 'file', 'one', 'fund', 'rais', 'use', 'invest', 'tech', 'introduc', 'new', 'grow', 'busi', 'outsid']",20210629 1654070000,less went beat china file one fund rais use invest tech introduc new grow busi outsid,16,0.0,0
+587,"['us', 'way', 'would', 'ever', 'send', 'money', 'communist', 'compani', 'choos', 'freedom', 'greed']",20210629 1649190000,us way would ever send money communist compani choos freedom greed,11,0.3612,0
+588,"['sever', 'ahead', 'massiv', 'tonight', 'via']",20210629 1643430000,sever ahead massiv tonight via,5,0.0,0
+589,"['sever', 'ahead', 'massiv', 'tonight']",20210629 1635540000,sever ahead massiv tonight,4,0.0,0
+590,"['good', 'way', 'play', 'tomorrow']",20210629 1618210000,good way play tomorrow,4,0.6486,0
+591,"['cautious', 'huge', 'new', 'york', 'via']",20210629 1603580000,cautious huge new york via,5,0.2263,0
+592,"['game', 'ride', 'start', 'trade']",20210629 1602230000,game ride start trade,4,0.0,0
+593,"['rais', 'billion', 'china', 'china']",20210629 1602140000,rais billion china china,4,0.0,0
+594,"['set', 'trade', 'know']",20210629 1600590000,set trade know,3,0.0,0
+595,['load'],20210629 1557450000,load,1,0.0,0
+596,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1555450000,share price top rang sourc,5,0.4588,0
+597,"['da', 'da']",20210629 1552540000,da da,2,0.0,0
+598,"['go', 'public', 'stock', 'exchang', 'june', 'compani', 'seek', 'rake', 'billion', 'like', 'make', 'compani', 'us', 'know', 'trade', 'much']",20210629 1539530000,go public stock exchang june compani seek rake billion like make compani us know trade much,16,0.3612,0
+599,"['cautious', 'huge', 'new', 'york']",20210629 1535250000,cautious huge new york,4,0.2263,0
+600,"['get', 'mani']",20210629 1535230000,get mani,2,0.0,0
+601,"['cautious', 'huge', 'new', 'york']",20210629 1534330000,cautious huge new york,4,0.2263,0
+602,"['big', 'tech', 'warn']",20210629 1520040000,big tech warn,3,-0.1027,0
+603,"['taxi', 'servic', 'global', 'go', 'one', 'biggest', 'year', 'interest', 'read', 'high']",20210629 1509330000,taxi servic global go one biggest year interest read high,10,0.4588,0
+605,"['china', 'goe', 'public', 'week']",20210629 1438030000,china goe public week,4,0.0,0
+606,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1432050000,share price top rang sourc,5,0.4588,0
+607,"['wish', 'didnt', 'endors', 'last', 'night', 'hope', 'wont', 'affect', 'much', 'open', 'tomorrow']",20210629 1430420000,wish didnt endors last night hope wont affect much open tomorrow,11,0.6808,0
+608,"['lot', 'ride', 'success', 'rival', 'site', 'free', 'use', 'without', 'cost', 'pleas', 'consid', 'contribut', 'thank']",20210629 1421160000,lot ride success rival site free use without cost pleas consid contribut thank,13,0.8591,0
+610,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1415110000,share price top rang sourc,5,0.4588,0
+611,"['global', 'known', 'china', 'said', 'price', 'top', 'rang']",20210629 1413200000,global known china said price top rang,7,0.2023,0
+612,['en'],20210629 1411500000,en,1,0.0,0
+613,['en'],20210629 1411310000,en,1,0.0,0
+614,"['global', 'trade']",20210629 1358550000,global trade,2,0.0,0
+615,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1357190000,share price top rang sourc,5,0.4588,0
+616,"['set', 'price', 'week', 'deal', 'global', 'disrupt', 'tech', 'plu', 'side', 'stori', 'solid', 'manag', 'built', 'strong', 'busi', 'growth', 'market', 'leverag', 'electr']",20210629 1353450000,set price week deal global disrupt tech plu side stori solid manag built strong busi growth market leverag electr,19,0.7579,1
+617,"['get', 'mani']",20210629 1342040000,get mani,2,0.0,0
+618,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1324340000,share price top rang sourc,5,0.4588,0
+619,"['us', 'em', 'de', 'us']",20210629 1320080000,us em de us,4,0.0,0
+621,"['import', 'custom', 'acquisit', 'tool', 'understand']",20210629 1305560000,import custom acquisit tool understand,5,0.0,0
+622,"['share', 'price', 'top', 'rang', 'sourc', 'tech']",20210629 1305200000,share price top rang sourc tech,6,0.4588,0
+623,"['topo', 'da']",20210629 1304070000,topo da,2,0.0,0
+624,"['lot', 'buzz', 'geopolit', 'recent', 'antitrust', 'probe', 'increasingli', 'hostil', 'us', 'toward', 'tech', 'plu', 'big', 'one', 'digit']",20210629 1303460000,lot buzz geopolit recent antitrust probe increasingli hostil us toward tech plu big one digit,15,0.0,0
+625,"['earli', 'access']",20210629 1300520000,earli access,2,0.0,0
+626,['ha'],20210629 1300400000,ha,1,0.34,0
+627,"['price', 'top', 'rang', 'sourc', 'direct', 'knowledg', 'matter', 'told']",20210629 1258420000,price top rang sourc direct knowledg matter told,8,0.2263,0
+628,"['topo', 'da']",20210629 1255060000,topo da,2,0.0,0
+629,"['good', 'group', 'acquir', 'honey', 'price', 'share', 'upon', 'outperform', 'transform', 'futur', 'connect', 'vehicl', 'target', 'f']",20210629 1254230000,good group acquir honey price share upon outperform transform futur connect vehicl target f,14,0.6249,1
+630,"['topo', 'da']",20210629 1254010000,topo da,2,0.0,0
+631,"['top', 'us', 'focu', 'trillion', 'club', 'miller', 'report', 'unit', 'new', 'tomorrow', 'plu', 'much']",20210629 1237340000,top us focu trillion club miller report unit new tomorrow plu much,12,0.2023,0
+632,"['china', 'list', 'frenzi', 'us', 'set']",20210629 1233020000,china list frenzi us set,5,0.0,0
+633,"['topo', 'da']",20210629 1228230000,topo da,2,0.0,0
+634,"['giant', 'billion', 'valuat']",20210629 1225450000,giant billion valuat,3,0.0,0
+635,"['topo', 'da']",20210629 1225190000,topo da,2,0.0,0
+636,"['topo', 'da']",20210629 1222030000,topo da,2,0.0,0
+637,"['price', 'us', 'rang', 'rais', 'market', 'valu']",20210629 1220050000,price us rang rais market valu,6,0.0,0
+638,"['price', 'us', 'rang', 'rais', 'market', 'valu']",20210629 1219330000,price us rang rais market valu,6,0.0,0
+639,"['price', 'us', 'rang', 'rais', 'market', 'valu']",20210629 1219270000,price us rang rais market valu,6,0.0,0
+640,"['topo', 'da', 'ae']",20210629 1217490000,topo da ae,3,0.0,0
+641,"['price', 'us', 'rang', 'rais', 'market', 'valu']",20210629 1217330000,price us rang rais market valu,6,0.0,0
+642,"['price', 'us', 'rang', 'rais', 'market', 'valu']",20210629 1217230000,price us rang rais market valu,6,0.0,0
+643,"['biggest', 'global', 'china', 'offer', 'market', 'cap', 'cap', 'biggest', 'reserv', 'ongo', 'govern', 'interfer', 'larg', 'technolog']",20210629 1217140000,biggest global china offer market cap cap biggest reserv ongo govern interfer larg technolog,14,0.0,0
+644,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1216300000,share price top rang sourc,5,0.4588,0
+645,"['price', 'us', 'rang', 'rais', 'market', 'valu']",20210629 1216160000,price us rang rais market valu,6,0.0,0
+646,"['china', 'goe', 'public', 'week']",20210629 1212330000,china goe public week,4,0.0,0
+647,"['giant', 'tell', 'price', 'us', 'top', 'rang']",20210629 1212060000,giant tell price us top rang,6,0.2023,0
+648,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1210050000,share price top rang sourc,5,0.4588,0
+649,"['fresh', 'post', 'flop', 'dingdong', 'cut', 'size', 'probabl', 'get', 'love', 'armi', 'name', 'seriou', 'note', 'busi', 'calendar', 'tomorrow']",20210629 1205490000,fresh post flop dingdong cut size probabl get love armi name seriou note busi calendar tomorrow,16,0.4588,0
+650,"['get', 'mani']",20210629 1203050000,get mani,2,0.0,0
+651,"['china', 'goe', 'public', 'week']",20210629 1200410000,china goe public week,4,0.0,0
+652,"['china', 'goe', 'public', 'week']",20210629 1143030000,china goe public week,4,0.0,0
+653,"['china', 'goe', 'public', 'week']",20210629 1139390000,china goe public week,4,0.0,0
+654,['busi'],20210629 1138160000,busi,1,0.0,0
+655,"['china', 'goe', 'public', 'week']",20210629 1138050000,china goe public week,4,0.0,0
+656,"['giant', 'global', 'price', 'us', 'initi', 'public', 'offer', 'top', 'rang', 'accord', 'sourc']",20210629 1131590000,giant global price us initi public offer top rang accord sourc,11,0.2023,0
+657,"['make', 'debut', 'wall', 'street', 'rais', 'much', 'ride', 'compani']",20210629 1115500000,make debut wall street rais much ride compani,8,0.0,0
+658,"['get', 'mani']",20210629 1115170000,get mani,2,0.0,0
+661,"['get', 'mani']",20210629 1055120000,get mani,2,0.0,0
+662,"['top', 'rang', 'would', 'rais', 'billion', 'would', 'valu', 'billion']",20210629 1053290000,top rang would rais billion would valu billion,8,0.2023,0
+663,"['share', 'price', 'top', 'rang', 'sourc', 'financi']",20210629 1045010000,share price top rang sourc financi,6,0.4588,0
+665,"['giant', 'tell', 'price', 'us', 'top', 'rang']",20210629 1042330000,giant tell price us top rang,6,0.2023,0
+667,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1030030000,share price top rang sourc,5,0.4588,0
+668,"['giant', 'tell', 'price', 'us', 'top', 'rang']",20210629 1017400000,giant tell price us top rang,6,0.2023,0
+669,"['good', 'morn', 'mostli', 'group', 'acquir', 'honey', 'ug', 'buy', 'global', 'price', 'top', 'rang', 'outperform', 'ug', 'overweight', 'rais']",20210629 1007100000,good morn mostli group acquir honey ug buy global price top rang outperform ug overweight rais,16,0.296,1
+670,"['ride', 'giant', 'rais', 'billion', 'us', 'billion']",20210629 1003290000,ride giant rais billion us billion,6,0.0,0
+671,"['share', 'price', 'top', 'rang', 'sourc']",20210629 1000100000,share price top rang sourc,5,0.4588,0
+672,"['giant', 'set', 'list', 'seek', 'billion', 'valuat', 'billion', 'intens', 'regulatori', 'scrutini', 'kick', 'gear', 'crash', 'burn']",20210629 1000050000,giant set list seek billion valuat billion intens regulatori scrutini kick gear crash burn,14,-0.4019,0
+673,"['share', 'price', 'top', 'rang', 'sourc']",20210629 0955040000,share price top rang sourc,5,0.4588,0
+674,"['share', 'price', 'top', 'rang', 'sourc', 'good', 'sourc']",20210629 0948380000,share price top rang sourc good sourc,7,0.7096,0
+677,"['want', 'specul', 'youv', 'got', 'bless', 'bet', 'said']",20210629 0912580000,want specul youv got bless bet said,7,0.4767,0
+679,['da'],20210629 0900330000,da,1,0.0,0
+680,"['china', 'list', 'frenzi', 'us', 'set']",20210629 0842520000,china list frenzi us set,5,0.0,0
+681,"['prepar', 'upcom', 'somebodi', 'pick']",20210629 0834430000,prepar upcom somebodi pick,4,0.0,0
+682,"['said', 'guid', 'us', 'top', 'rang']",20210629 0828420000,said guid us top rang,5,0.2023,0
+683,"['la', 'el', 'de', 'la', 'mi', 'la', 'la', 'de']",20210629 0820560000,la el de la mi la la de,8,0.0,0
+684,"['get', 'mani']",20210629 0749250000,get mani,2,0.0,0
+685,"['de', 'un', 'poco', 'de', 'coincid', 'con', 'de', 'covid', 'de']",20210629 0745080000,de un poco de coincid con de covid de,9,0.0,0
+686,"['rais', 'billion', 'new', 'york', 'via', 'global', 'compani', 'rais', 'billion', 'week', 'new', 'york', 'stock', 'exchang', 'initi', 'public', 'offer', 'would', 'give']",20210629 0729360000,rais billion new york via global compani rais billion week new york stock exchang initi public offer would give,19,0.0,0
+687,"['china', 'set', 'trade', 'one', 'biggest', 'year']",20210629 0727030000,china set trade one biggest year,6,0.0,0
+688,"['giant', 'seek', 'rais', 'nearli', 'billion', 'public', 'offer', 'would', 'give', 'valuat', 'billion', 'billion', 'closer', 'look', 'compani', 'disclos', 'file']",20210629 0726130000,giant seek rais nearli billion public offer would give valuat billion billion closer look compani disclos file,17,0.0,0
+689,"['order', 'close']",20210629 0611450000,order close,2,0.0,0
+690,"['helium', 'look', 'gener', 'dont', 'like', 'buy', 'expens', 'stock', 'least', 'gate', 'one']",20210629 0551220000,helium look gener dont like buy expens stock least gate one,11,-0.2755,0
+691,"['stock', 'news', 'list', 'date', 'analysi', 'predict', 'via']",20210629 0535450000,stock news list date analysi predict via,7,0.0,0
+692,"['near', 'complet', 'doubl', 'bottom', 'pattern', 'weekend', 'well']",20210629 0456490000,near complet doubl bottom pattern weekend well,7,0.2732,0
+693,"['recent', 'stuff', 'work', 'today', 'low', 'high', 'short', 'ai', 'tech', 'main', 'idea', 'past', 'trade', 'day', 'recent', 'sure', 'theyr', 'done', 'alf', 'coin']",20210629 0445130000,recent stuff work today low high short ai tech main idea past trade day recent sure theyr done alf coin,20,0.0516,0
+695,"['thing', 'care', 'effect', 'get', 'mani']",20210629 0403010000,thing care effect get mani,5,0.4939,0
+696,"['sinc', 'prospectu', 'highli', 'sought', 'market', 'time', 'receiv', 'billion', 'origin', 'target', 'taxi', 'cab', 'stock']",20210629 0338460000,sinc prospectu highli sought market time receiv billion origin target taxi cab stock,13,0.0,0
+697,"['go', 'public', 'stock', 'price', 'rang']",20210629 0315020000,go public stock price rang,5,0.0,0
+698,"['set', 'one', 'biggest', 'trade', 'seek', 'billion', 'offer', 'million', 'billion', 'us']",20210629 0305070000,set one biggest trade seek billion offer million billion us,10,0.0,0
+699,"['get', 'mani']",20210629 0208150000,get mani,2,0.0,0
+700,"['version', 'set', 'one', 'biggest', 'year', 'trade', 'china']",20210629 0201110000,version set one biggest year trade china,7,0.0,0
+701,"['giant', 'billion', 'valuat', 'sourc', 'financ', 'visit', 'china']",20210629 0200000000,giant billion valuat sourc financ visit china,7,0.0,0
+702,"['version', 'set', 'one', 'biggest', 'year', 'know']",20210629 0156040000,version set one biggest year know,6,0.0,0
+703,"['deal', 'show', 'like', 'get', 'mani']",20210629 0103300000,deal show like get mani,5,0.3612,0
+704,"['week', 'like', 'per', 'video', 'dont', 'like']",20210629 0054110000,week like per video dont like,6,0.1002,0
+706,"['preview', 'june', 'review', 'calendar']",20210629 0040400000,preview june review calendar,4,0.0,0
+707,"['de', 'de', 'us', 'da']",20210629 0028210000,de de us da,4,0.0,0
+709,"['base', 'china', 'global', 'rais', 'figur', 'billion', 'initi', 'public', 'offer']",20210629 0009380000,base china global rais figur billion initi public offer,9,0.0,0
+710,"['blend', 'like', 'interest', 'tech', 'go', 'public', 'ill', 'sit', 'interest', 'well', 'today', 'well']",20210629 0001030000,blend like interest tech go public ill sit interest well today well,12,0.836,0

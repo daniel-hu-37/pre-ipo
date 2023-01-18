@@ -1,0 +1,32 @@
+,content,date,text,Length,sid_sentiment,finbert_label
+0,"['wonder', 'visa', 'perform', 'anywher', 'near', 'boy', 'oh', 'boy']",20080312 2210530000,wonder visa perform anywher near boy oh boy,8,0.0,0
+1,"['think', 'ownership', 'visa', 'upcom', 'quit', 'intrigu']",20080312 1932160000,think ownership visa upcom quit intrigu,6,0.0,0
+2,"['busi', 'visa', 'analyst']",20080313 2012080000,busi visa analyst,3,0.0,0
+3,"['patient', 'wait', 'pounc', 'visa']",20080313 1455040000,patient wait pounc visa,4,0.0,0
+4,"['visa', 'need', 'number', 'crunch', 'fund', 'transfer', 'look', 'forward', 'sure', 'ill', 'buy', 'wait', 'see']",20080313 0218570000,visa need number crunch fund transfer look forward sure ill buy wait see,13,-0.0516,0
+5,"['busi', 'visa', 'trade', 'day', 'earli', 'say']",20080314 1932210000,busi visa trade day earli say,6,0.0,0
+6,"['busi', 'visa', 'proce', 'could', 'top', 'analyst']",20080314 1547180000,busi visa proce could top analyst,6,0.2023,0
+7,"['fee', 'fight', 'may', 'trim', 'gain']",20080314 1158100000,fee fight may trim gain,5,0.2023,1
+8,"['busi', 'visa', 'wont', 'comment', 'upcom']",20080317 1707190000,busi visa wont comment upcom,5,0.0,0
+9,['tomorrow'],20080317 0102340000,tomorrow,1,0.0,0
+10,"['interest', 'visa', 'week']",20080317 0046260000,interest visa week,3,0.4588,0
+11,"['never', 'visa', 'wasnt', 'public', 'rais', 'billion', 'today']",20080318 2309580000,never visa wasnt public rais billion today,7,0.0,0
+12,"['visa', 'record', 'us', 'credit', 'card', 'n']",20080318 2258360000,visa record us credit card n,6,0.3818,0
+13,"['busi', 'visa', 'billion', 'record']",20080318 2252110000,busi visa billion record,4,0.0,0
+14,"['visa', 'tomorrow', 'morn']",20080318 2247430000,visa tomorrow morn,3,0.0,0
+15,"['visa', 'record', 'us', 'credit', 'card', 'network', 'million']",20080318 2239440000,visa record us credit card network million,7,0.3818,0
+16,"['updat', 'visa', 'record', 'visa', 'whop', 'billion', 'share', 'th']",20080318 2230090000,updat visa record visa whop billion share th,8,0.296,0
+17,"['visa', 'cash', 'money']",20080318 2227010000,visa cash money,3,0.0,0
+18,"['visa', 'share', 'rang', 'rais', 'record', 'billion', 'wow', 'good', 'news', 'market']",20080318 2215340000,visa share rang rais record billion wow good news market,10,0.836,1
+19,"['visa', 'share', 'rang', 'rais', 'record', 'billion']",20080318 2210010000,visa share rang rais record billion,6,0.296,1
+20,"['hope', 'account', 'get', 'time', 'get', 'visa']",20080318 2124520000,hope account get time get visa,6,0.4404,0
+21,"['visa', 'day', 'trade', 'tomorrow']",20080318 2005450000,visa day trade tomorrow,4,0.0,0
+22,"['thought', 'visa', 'alreadi', 'public', 'anyon', 'got']",20080318 1943260000,thought visa alreadi public anyon got,6,0.0,0
+23,"['visa', 'arch', 'fiend', 'credit', 'debt', 'goe', 'public', 'day', 'biggest', 'ever', 'ironi']",20080318 1830460000,visa arch fiend credit debt goe public day biggest ever ironi,11,0.0258,0
+24,"['busi', 'visa', 'could', 'price', 'rang', 'analyst']",20080318 1607430000,busi visa could price rang analyst,6,0.0,0
+25,"['v', 'visa']",20080318 1334200000,v visa,2,0.0,0
+26,"['updat', 'billion', 'feast', 'famin', 'initi', 'public', 'offer', 'wont']",20080318 1300260000,updat billion feast famin initi public offer wont,8,0.0,0
+27,"['amid', 'financi', 'storm', 'visa', 'set', 'massiv', 'credit', 'card', 'giant', 'visa', 'set', 'launch', 'trade']",20080318 0801430000,amid financi storm visa set massiv credit card giant visa set launch trade,13,0.3818,0
+28,"['visa', 'theyr', 'go']",20080318 0730210000,visa theyr go,3,0.0,0
+29,"['visa', 'news', 'associ', 'professor', 'law']",20080318 0331490000,visa news associ professor law,5,0.0,0
+30,"['visa', 'set', 'massiv', 'amid', 'financi', 'storm', 'new', 'york', 'credit', 'card', 'giant', 'visa', 'set', 'launch']",20080318 0244470000,visa set massiv amid financi storm new york credit card giant visa set launch,14,0.3818,0

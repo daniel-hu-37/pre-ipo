@@ -1,0 +1,25 @@
+,content,date,text,Length,sid_sentiment,finbert_label
+0,"['banco', 'sa', 'de']",20090930 1842100000,banco sa de,3,0.0,0
+1,"['deck', 'next', 'week', 'banco', 'analyt', 'renaiss', 'capit']",20091002 1515260000,deck next week banco analyt renaiss capit,7,0.0,0
+2,"['upcom', 'banco', 'group']",20091004 1303020000,upcom banco group,3,0.0,0
+3,"['watch', 'lead', 'bank', 'banco']",20091004 0654280000,watch lead bank banco,4,0.0,0
+4,"['anoth', 'busi', 'week', 'ahead', 'banco', 'omer', 'analyt', 'via']",20091005 1503160000,anoth busi week ahead banco omer analyt via,8,0.0,0
+5,"['due', 'banco']",20091005 1447270000,due banco,2,0.0,0
+6,"['due', 'banco']",20091005 1433310000,due banco,2,0.0,0
+7,"['due', 'banco', 'two', 'us', 'initi', 'public', 'break']",20091005 1420250000,due banco two us initi public break,7,0.0,0
+8,"['due', 'banco', 'two', 'us', 'initi', 'public', 'break']",20091005 1414420000,due banco two us initi public break,7,0.0,0
+9,"['anoth', 'busi', 'week', 'ahead', 'banco', 'omer', 'analyt']",20091005 1350580000,anoth busi week ahead banco omer analyt,7,0.0,0
+10,['banco'],20091006 2350490000,banco,1,0.0,0
+11,"['banco', 'wall', 'street', 'journal', 'b']",20091006 2350150000,banco wall street journal b,5,0.0,0
+12,"['banco', 'wall', 'street', 'journal', 'banco']",20091006 2345380000,banco wall street journal banco,5,0.0,0
+13,"['banco', 'messag', 'rate']",20091006 2340010000,banco messag rate,3,0.0,0
+14,"['banco', 'wall', 'street', 'journal']",20091006 2332060000,banco wall street journal,4,0.0,0
+15,"['banco', 'brazil', 'bewar', 'buzz']",20091006 2244340000,banco brazil bewar buzz,4,0.0,0
+16,"['real', 'ralli', 'banco', 'dollar']",20091006 2207290000,real ralli banco dollar,4,0.0,0
+17,"['brazil', 'stock', 'rise', 'led', 'fall', 'banco', 'record']",20091006 2204070000,brazil stock rise led fall banco record,7,0.0,-1
+18,"['banco', 'get', 'readi']",20091006 2201160000,banco get readi,3,0.0,0
+19,"['list', 'brazil', 'unit', 'hot', 'market', 'sao', 'banco', 'unit', 'wi']",20091006 1845400000,list brazil unit hot market sao banco unit wi,9,0.0,0
+20,"['big', 'tonight', 'banco', 'deal', 'size', 'analyt']",20091006 1834060000,big tonight banco deal size analyt,6,0.0,0
+21,"['big', 'tonight', 'banco', 'deal', 'size', 'analyt']",20091006 1816080000,big tonight banco deal size analyt,6,0.0,0
+22,"['group', 'analyt', 'corpor', 'omer']",20091006 1730060000,group analyt corpor omer,4,0.0,0
+23,"['lead', 'bank', 'banco']",20091006 1554310000,lead bank banco,3,0.0,0

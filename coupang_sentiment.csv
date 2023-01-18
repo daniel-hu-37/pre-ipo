@@ -1,0 +1,205 @@
+,content,date,text,Length,sid_sentiment,finbert_label
+0,"['may', 'rais', 'billion', 'potenti', 'valuat', 'billion']",20210304 1842030000,may rais billion potenti valuat billion,6,0.0,0
+1,"['exclus', 'take', 'place', 'march']",20210304 1027350000,exclus take place march,4,0.0,0
+2,"['open', 'us', 'invest']",20210304 1000000000,open us invest,3,0.0,0
+3,"['back', 'blockbust', 'stock', 'market', 'debut', 'would', 'valu', 'giant', 'well', 'billion', 'make', 'us', 'initi', 'public', 'offer']",20210304 0900270000,back blockbust stock market debut would valu giant well billion make us initi public offer,15,0.2732,0
+4,['interest'],20210304 0838150000,interest,1,0.4588,0
+5,"['would', 'make', 'us', 'list', 'foreign', 'compani', 'sinc', 'billion', 'blockbust']",20210304 0802470000,would make us list foreign compani sinc billion blockbust,9,0.0,0
+6,"['health', 'price', 'bullish', 'debut', 'valuat']",20210304 0802220000,health price bullish debut valuat,5,0.0,0
+7,"['may', 'rais', 'billion', 'potenti', 'valuat', 'billion']",20210304 0802130000,may rais billion potenti valuat billion,6,0.0,0
+8,"['probabl', 'go', 'cover', 'video', 'sinc', 'somewhat', 'uniqu', 'perspect', 'multipl', 'time', 'per', 'might', 'talk', 'next', 'news', 'video', 'wont', 'video', 'unless', 'price', 'realli', 'detest', 'overvalu']",20210304 0604360000,probabl go cover video sinc somewhat uniqu perspect multipl time per might talk next news video wont video unless price realli detest overvalu,23,0.0,0
+9,"['giant', 'founder', 'could', 'worth', 'billion', 'via', 'kim', 'us', 'citizen', 'left', 'south', 'age', 'board', 'school', 'age']",20210304 0414290000,giant founder could worth billion via kim us citizen left south age board school age,15,0.2263,0
+10,"['south', 'back', 'blockbust', 'stock', 'market', 'debut', 'would', 'valu', 'giant', 'well', 'billion', 'make', 'us']",20210304 0044000000,south back blockbust stock market debut would valu giant well billion make us,13,0.2732,0
+11,"['summari', 'grouchi', 'debut', 'monster', 'deal']",20210305 2152520000,summari grouchi debut monster deal,5,0.0,0
+12,"['giant', 'founder', 'could', 'worth', 'billion']",20210305 2118200000,giant founder could worth billion,5,0.2263,0
+13,"['r', 'p', 'disruptor', 'list', 'ser', 'ut', 'sen']",20210305 1827070000,r p disruptor list ser ut sen,7,0.0,0
+14,"['health', 'price', 'bullish', 'debut', 'valuat']",20210305 1610320000,health price bullish debut valuat,5,0.0,0
+15,"['opinion', 'compani']",20210305 1514310000,opinion compani,2,0.0,0
+16,"['lot', 'debt', 'though', 'huh']",20210305 0914140000,lot debt though huh,4,-0.3612,0
+17,"['son', 'interest', 'lot', 'tech', 'consid', 'yr', 'grab', 'ant', 'coincid', 'list', 'year']",20210305 0741050000,son interest lot tech consid yr grab ant coincid list year,11,0.4588,0
+18,"['open', 'us', 'invest']",20210305 0300010000,open us invest,3,0.0,0
+19,"['billion', 'us', 'remain', 'king', 'tech']",20210306 2312420000,billion us remain king tech,5,0.0,0
+20,"['billion', 'us', 'remain', 'king', 'tech']",20210306 2234330000,billion us remain king tech,5,0.0,0
+21,"['billion', 'us', 'remain', 'king', 'tech']",20210306 2234330000,billion us remain king tech,5,0.0,0
+22,"['billion', 'us', 'remain', 'king', 'tech', 'dash']",20210306 2205450000,billion us remain king tech dash,6,0.0,0
+23,"['would', 'make', 'us', 'list', 'foreign', 'compani', 'sinc', 'billion', 'blockbust']",20210306 2202350000,would make us list foreign compani sinc billion blockbust,9,0.0,0
+24,"['els', 'excit', 'around', 'thank']",20210306 2111440000,els excit around thank,4,0.3612,0
+25,"['week', 'ahead', 'behemoth']",20210306 1937260000,week ahead behemoth,3,0.0,0
+26,"['buy', 'south', 'south', 'dont', 'wan', 'na', 'miss', 'one']",20210306 1819340000,buy south south dont wan na miss one,8,0.1139,0
+27,['us'],20210306 1600010000,us,1,0.0,0
+28,"['may', 'rais', 'billion', 'potenti', 'valuat', 'billion', 'via']",20210306 1533560000,may rais billion potenti valuat billion via,7,0.0,0
+30,"['open', 'us', 'invest']",20210306 0800000000,open us invest,3,0.0,0
+31,"['bom', 'kim', 'us']",20210306 0745000000,bom kim us,3,0.0,0
+32,"['closer', 'detail', 'report']",20210306 0513390000,closer detail report,3,0.0,0
+33,"['juggernaut', 'make', 'insan', 'growth', 'essenti', 'logist', 'id', 'implor', 'mir', 'vote', 'list', 'soon', 'lot', 'one']",20210306 0248040000,juggernaut make insan growth essenti logist id implor mir vote list soon lot one,14,0.3818,0
+35,"['revenu', 'loss']",20210306 0056420000,revenu loss,2,-0.3182,0
+36,"['health', 'price', 'bullish', 'debut', 'valuat']",20210306 0040320000,health price bullish debut valuat,5,0.0,0
+37,"['billion', 'us', 'remain', 'king', 'tech']",20210307 1649130000,billion us remain king tech,5,0.0,0
+38,"['current', 'price']",20210307 1611140000,current price,2,0.0,0
+39,"['read', 'invest', 'south']",20210307 1318560000,read invest south,3,0.0,0
+41,"['bakal', 'di', 'bakal', 'us', 'dan', 'di', 'situ']",20210307 0848060000,bakal di bakal us dan di situ,7,0.0,0
+42,"['given', 'se', 'perform', 'hit', 'week', 'dont', 'think', 'grab', 'look', 'look', 'cash', 'tradit', 'rest', 'possibl']",20210307 0545560000,given se perform hit week dont think grab look look cash tradit rest possibl,14,0.0,0
+43,"['open', 'us', 'invest']",20210307 0500000000,open us invest,3,0.0,0
+44,"['valuat', 'rather', 'impress', 'excit', 'compani', 'revenu', 'last', 'howev', 'consid', 'prob', 'got', 'small', 'ceil', 'co', 'limit', 'south', 'popul']",20210307 0439010000,valuat rather impress excit compani revenu last howev consid prob got small ceil co limit south popul,17,0.4404,0
+45,"['price', 'target', 'price']",20210307 0220010000,price target price,3,0.0,0
+46,"['check', 'news', 'analysi', 'south', 'digit', 'giant', 'set', 'billion', 'debut', 'march', 'commerc']",20210307 0134590000,check news analysi south digit giant set billion debut march commerc,11,0.0,0
+47,"['south', 'shape', 'one', 'biggest', 'tech']",20210307 0038420000,south shape one biggest tech,5,0.0,0
+48,"['interest', 'well', 'valuat', 'hard', 'time', 'valuat', 'right', 'current', 'want', 'back', 'there', 'mani', 'high', 'multipl', 'covid', 'growth', 'stock', 'right', 'scare', 'hell']",20210307 0037050000,interest well valuat hard time valuat right current want back there mani high multipl covid growth stock right scare hell,20,-0.296,0
+50,"['billion', 'us', 'remain', 'king', 'tech']",20210307 0000190000,billion us remain king tech,5,0.0,0
+52,"['anyon', 'load', 'week', 'settl', 'environ', 'still', 'undecid']",20210308 2304510000,anyon load week settl environ still undecid,7,0.0,-1
+53,"['price', 'share', 'rang', 'rais', 'would', 'give', 'giant', 'valuat', 'would', 'compani']",20210308 2136490000,price share rang rais would give giant valuat would compani,10,0.296,0
+54,"['south', 'site', 'week', 'look', 'forward', 'either']",20210308 2124490000,south site week look forward either,6,0.0,0
+55,"['upcom', 'streak', 'back', 'come', 'wall', 'street', 'histor', 'high']",20210308 2029370000,upcom streak back come wall street histor high,8,0.0,0
+56,"['watch', 'retail', 'south', 'million', 'low', 'high', 'volum', 'trade']",20210308 2026140000,watch retail south million low high volum trade,8,-0.2732,0
+57,"['us', 'lucr', 'market', 'tech', 'dash', 'baba']",20210308 1836250000,us lucr market tech dash baba,6,0.0,0
+58,"['preview', 'lead', 'busi', 'week', 'via']",20210308 1830400000,preview lead busi week via,5,0.0,0
+59,"['compani', 'could', 'fetch', 'billion', 'valuat', 'busi', 'economi', 'leadership', 'manag', 'strategi', 'innov', 'entrepreneur', 'tech']",20210308 1734380000,compani could fetch billion valuat busi economi leadership manag strategi innov entrepreneur tech,13,0.0,0
+60,"['billion', 'us', 'king', 'tech']",20210308 1704030000,billion us king tech,4,0.0,0
+61,['know'],20210308 1616380000,know,1,0.0,0
+62,"['preview', 'lead', 'busi', 'week', 'stock']",20210308 1556080000,preview lead busi week stock,5,0.0,0
+63,"['preview', 'lead', 'busi', 'week']",20210308 1551320000,preview lead busi week,4,0.0,0
+64,"['preview', 'lead', 'busi', 'week']",20210308 1551180000,preview lead busi week,4,0.0,0
+65,"['week', 'educ']",20210308 1540390000,week educ,2,0.0,0
+66,"['new', 'york', 'list', 'cloud', 'worker', 'via']",20210308 1530250000,new york list cloud worker via,6,0.0,0
+67,"['come', 'typic', 'see', 'dive', 'heavili', 'weigh', 'later', 'week', 'south', 'huge', 'market', 'close', 'larg', 'stock']",20210308 1515120000,come typic see dive heavili weigh later week south huge market close larg stock,14,0.3182,0
+68,"['er', 'om', 'man', 'kan', 'en', 'skal', 'p']",20210308 1459490000,er om man kan en skal p,7,0.0,0
+69,"['deliv', 'mammoth', 'us', 'billion', 'valuat']",20210308 1439450000,deliv mammoth us billion valuat,5,0.0,0
+70,"['south', 'giant', 'rais', 'much', 'new', 'york', 'busi']",20210308 1349150000,south giant rais much new york busi,7,0.0,0
+71,"['afraid', 'may', 'die', 'work', 'like', 'everi', 'day', 'worker', 'unicorn', 'ahead', 'blockbust', 'key', 'question', 'tech', 'innov', 'squeez']",20210308 1226580000,afraid may die work like everi day worker unicorn ahead blockbust key question tech innov squeez,16,-0.34,0
+72,"['accord', 'public', 'servic', 'transport', 'union', 'eight', 'past', 'year', 'result', 'overwork']",20210308 1211480000,accord public servic transport union eight past year result overwork,10,0.0,-1
+73,"['firm', 'larg', 'us']",20210308 1115010000,firm larg us,3,0.0,0
+74,"['cloud', 'worker']",20210308 1022270000,cloud worker,2,0.0,0
+75,"['group', 'valuat', 'eight', 'allegedli', 'overwork', 'cloud', 'worker', 'via', 'commerc']",20210308 0939120000,group valuat eight allegedli overwork cloud worker via commerc,9,0.0,0
+76,"['cloud', 'worker', 'commentari']",20210308 0914410000,cloud worker commentari,3,0.0,0
+77,"['us', 'king', 'tech']",20210308 0909320000,us king tech,3,0.0,0
+78,"['cloud', 'worker']",20210308 0904330000,cloud worker,2,0.0,0
+79,['cloud'],20210308 0901120000,cloud,1,0.0,0
+80,['cloud'],20210308 0901110000,cloud,1,0.0,0
+81,"['cloud', 'worker', 'group', 'valuat', 'eight', 'allegedli', 'overwork']",20210308 0859320000,cloud worker group valuat eight allegedli overwork,7,0.0,0
+82,"['cloud', 'worker']",20210308 0858550000,cloud worker,2,0.0,0
+83,"['billion', 'us', 'king']",20210308 0843520000,billion us king,3,0.0,0
+84,"['cloud', 'worker', 'via']",20210308 0837120000,cloud worker via,3,0.0,0
+85,"['cloud', 'worker', 'gain', 'perspect', 'cloud']",20210308 0823010000,cloud worker gain perspect cloud,5,0.5267,0
+87,"['interest', 'analysi', 'play', 'work', 'food', 'groceri', 'guy', 'one', 'away']",20210308 0758550000,interest analysi play work food groceri guy one away,9,0.6597,0
+88,"['billion', 'us', 'king', 'tech', 'commentari']",20210308 0751080000,billion us king tech commentari,5,0.0,0
+89,"['billion', 'us', 'king']",20210308 0659400000,billion us king,3,0.0,0
+90,"['billion', 'us', 'king']",20210308 0657180000,billion us king,3,0.0,0
+91,"['billion', 'us', 'king']",20210308 0657170000,billion us king,3,0.0,0
+92,"['cloud', 'worker']",20210308 0618210000,cloud worker,2,0.0,0
+93,['cloud'],20210308 0601250000,cloud,1,0.0,0
+94,"['cloud', 'worker']",20210308 0524020000,cloud worker,2,0.0,0
+95,"['cloud', 'worker', 'via']",20210308 0521540000,cloud worker via,3,0.0,0
+96,"['cloud', 'worker']",20210308 0501070000,cloud worker,2,0.0,0
+97,"['worthi', 'recal', 'ever', 'see', 'one', 'grow', 'beast', 'mode']",20210308 0407140000,worthi recal ever see one grow beast mode,8,0.0,0
+98,"['billion', 'us', 'king', 'tech', 'via', 'yahoo']",20210308 0338000000,billion us king tech via yahoo,6,0.0,0
+99,"['billion', 'us', 'king']",20210308 0320420000,billion us king,3,0.0,0
+100,"['us', 'king', 'tech']",20210308 0256330000,us king tech,3,0.0,0
+101,['us'],20210308 0214010000,us,1,0.0,0
+102,"['billion', 'us', 'king', 'tech', 'traffic', 'transport', 'ship', 'truck', 'news']",20210308 0157290000,billion us king tech traffic transport ship truck news,9,0.0,0
+103,"['billion', 'us', 'king', 'tech']",20210308 0156020000,billion us king tech,4,0.0,0
+104,"['base', 'case', 'valuat', 'market', 'cap', 'billion', 'would', 'higher', 'valuat', 'rang']",20210308 0058450000,base case valuat market cap billion would higher valuat rang,10,0.0,1
+105,"['giant', 'founder', 'could', 'worth', 'billion', 'via']",20210308 0018070000,giant founder could worth billion via,6,0.2263,0
+106,"['pois', 'reap', 'billion', 'profit', 'baba', 'dash']",20210309 2359210000,pois reap billion profit baba dash,6,0.4404,1
+107,"['platform', 'look', 'increas', 'price', 'reach', 'valuat', 'new', 'york', 'list']",20210309 2352450000,platform look increas price reach valuat new york list,9,0.0258,0
+108,"['first', 'educ', 'hayward', 'week', 'sun', 'countri']",20210309 2351080000,first educ hayward week sun countri,6,0.0,0
+109,"['see', 'get', 'get', 'attent', 'prob', 'pound', 'pass', 'look', 'good', 'valuat', 'tricki', 'market', 'founder', 'led', 'need', 'king', 'speak']",20210309 2140080000,see get get attent prob pound pass look good valuat tricki market founder led need king speak,17,0.4404,0
+110,"['what', 'take', 'upcom', 'valuat']",20210309 2136210000,what take upcom valuat,4,0.0,0
+111,"['remind', 'debut', 'wed', 'debut', 'site', 'w', 'share', 'rev']",20210309 2119440000,remind debut wed debut site w share rev,8,0.296,0
+112,"['billion', 'valuat', 'financi', 'trade', 'travel', 'economi', 'market', 'world', 'exchang']",20210309 2113020000,billion valuat financi trade travel economi market world exchang,9,0.0,0
+113,"['price', 'billion', 'valuat', 'articl']",20210309 2019400000,price billion valuat articl,4,0.0,0
+114,"['price', 'billion', 'valuat']",20210309 2015060000,price billion valuat,3,0.0,0
+116,"['rais', 'articl']",20210309 1946350000,rais articl,2,0.0,0
+117,"['updat', 'price', 'billion', 'valuat']",20210309 1943570000,updat price billion valuat,4,0.0,0
+118,"['para', 'de', 'us', 'e']",20210309 1900110000,para de us e,4,0.0,0
+120,"['para', 'de', 'us']",20210309 1833160000,para de us,3,0.0,0
+121,"['para', 'de', 'us']",20210309 1831030000,para de us,3,0.0,0
+122,"['para', 'de', 'us']",20210309 1827320000,para de us,3,0.0,0
+123,"['para', 'de']",20210309 1815370000,para de,2,0.0,0
+124,"['south', 'up', 'price', 'rang', 'billion', 'us']",20210309 1814360000,south up price rang billion us,6,0.0,0
+125,"['come', 'next', 'public', 'site', 'offer', 'price', 'per', 'share']",20210309 1759340000,come next public site offer price per share,8,0.296,0
+126,"['readi', 'short', 'present']",20210309 1753270000,readi short present,3,0.0,0
+127,"['para', 'de']",20210309 1753100000,para de,2,0.0,0
+128,"['para', 'de']",20210309 1752330000,para de,2,0.0,0
+129,"['price', 'billion', 'valuat']",20210309 1600110000,price billion valuat,3,0.0,0
+130,"['price', 'billion', 'valuat', 'south', 'back', 'group', 'corp', 'seek', 'valuat', 'billion', 'us', 'stock', 'market', 'debut', 'giant', 'rais', 'price', 'rang']",20210309 1600040000,price billion valuat south back group corp seek valuat billion us stock market debut giant rais price rang,18,0.0,0
+132,"['price', 'billion', 'valuat']",20210309 1545100000,price billion valuat,3,0.0,0
+134,"['price', 'billion', 'valuat']",20210309 1528030000,price billion valuat,3,0.0,0
+135,"['get', 'prepar', 'articl', 'day', 'ago', 'take', 'place', 'march', 'list', 'price', 'set', 'march']",20210309 1519480000,get prepar articl day ago take place march list price set march,12,0.0,0
+136,"['site', 'offer', 'price', 'per', 'share']",20210309 1517340000,site offer price per share,5,0.296,0
+137,"['price', 'billion', 'valuat']",20210309 1511360000,price billion valuat,3,0.0,0
+138,"['love', 'volatil', 'dust', 'yea']",20210309 1511170000,love volatil dust yea,4,0.6369,0
+139,"['price', 'billion', 'valuat']",20210309 1507350000,price billion valuat,3,0.0,0
+140,"['price', 'billion', 'valuat']",20210309 1504330000,price billion valuat,3,0.0,0
+141,"['price', 'billion', 'valuat', 'via']",20210309 1501140000,price billion valuat via,4,0.0,0
+142,"['price', 'billion', 'valuat']",20210309 1500340000,price billion valuat,3,0.0,0
+143,"['price', 'billion', 'valuat']",20210309 1500050000,price billion valuat,3,0.0,0
+144,"['correct', 'rang', 'offer', 'rang', 'amount', 'remain']",20210309 1450570000,correct rang offer rang amount remain,6,0.0,0
+145,"['spi', 'site', 'offer', 'price', 'per', 'share']",20210309 1447250000,spi site offer price per share,6,0.296,0
+146,"['giant', 'rang', 'ahead', 'billion', 'us']",20210309 1432520000,giant rang ahead billion us,5,0.0,0
+147,"['rang', 'offer', 'rang', 'amount', 'remain']",20210309 1413370000,rang offer rang amount remain,5,0.0,0
+150,"['billion', 'us', 'king', 'tech']",20210309 1024360000,billion us king tech,4,0.0,0
+151,"['global', 'could', 'lead', 'challeng', 'domin', 'via']",20210309 0953460000,global could lead challeng domin via,6,0.0,0
+152,"['answer', 'noth', 'sweatshop', 'massiv', 'point', 'chanc', 'part', 'new', 'york', 'via']",20210309 0854510000,answer noth sweatshop massiv point chanc part new york via,10,0.0,0
+153,"['vill', 'till']",20210309 0851100000,vill till,2,0.0,0
+154,"['two', 'big', 'money']",20210309 0824230000,two big money,3,0.0,0
+155,"['know', 'stock']",20210309 0802350000,know stock,2,0.0,0
+156,"['preview', 'lead', 'busi', 'week']",20210309 0302410000,preview lead busi week,4,0.0,0
+157,"['firm', 'rippl', 'end', 'partnership', 'billion', 'us', 'king', 'tech', 'south', 'giant']",20210309 0050570000,firm rippl end partnership billion us king tech south giant,10,0.0,0
+158,"['less', 'via']",20210310 2349350000,less via,2,0.0,0
+159,"['price', 'billion', 'valuat']",20210310 2336560000,price billion valuat,3,0.0,0
+160,"['us', 'congress', 'vote', 'stimulu', 'bill', 'scale', 'green', 'hydrogen', 'via']",20210310 2240100000,us congress vote stimulu bill scale green hydrogen via,9,0.0,1
+161,"['upcom', 'mar', 'first', 'educ', 'group', 'pine', 'technolog', 'acquisit', 'corp', 'acquisit', 'corp', 'stock', 'video', 'link']",20210310 2223320000,upcom mar first educ group pine technolog acquisit corp acquisit corp stock video link,14,0.0,0
+162,"['upcom', 'mar', 'first', 'educ', 'group', 'pine', 'technolog', 'acquisit', 'corp', 'acquisit', 'corp', 'stock', 'video', 'link']",20210310 2223290000,upcom mar first educ group pine technolog acquisit corp acquisit corp stock video link,14,0.0,0
+163,"['upcom', 'mar', 'first', 'educ', 'group', 'pine', 'technolog', 'acquisit', 'corp', 'acquisit', 'corp', 'stock', 'video', 'link']",20210310 2223250000,upcom mar first educ group pine technolog acquisit corp acquisit corp stock video link,14,0.0,0
+164,"['pois', 'reap', 'billion', 'profit']",20210310 2152170000,pois reap billion profit,4,0.4404,0
+165,"['growth', 'flywheel', 'driven', 'maniac', 'focu', 'custom', 'experi', 'read', 'flywheel']",20210310 2148490000,growth flywheel driven maniac focu custom experi read flywheel,9,-0.128,0
+166,"['upcom', 'mar', 'first', 'educ', 'group', 'pine', 'technolog', 'acquisit', 'corp', 'acquisit', 'corp', 'stock']",20210310 2101230000,upcom mar first educ group pine technolog acquisit corp acquisit corp stock,12,0.0,0
+167,"['upcom', 'mar', 'first', 'educ', 'group', 'pine', 'technolog', 'acquisit', 'corp', 'acquisit', 'corp', 'stock']",20210310 2101190000,upcom mar first educ group pine technolog acquisit corp acquisit corp stock,12,0.0,0
+168,"['upcom', 'mar', 'first', 'educ', 'group', 'pine', 'technolog', 'acquisit', 'corp', 'acquisit', 'corp', 'stock']",20210310 2101160000,upcom mar first educ group pine technolog acquisit corp acquisit corp stock,12,0.0,0
+169,"['upcom', 'mar', 'first', 'educ', 'group', 'pine', 'technolog', 'acquisit', 'corp', 'acquisit', 'corp', 'stock']",20210310 2101060000,upcom mar first educ group pine technolog acquisit corp acquisit corp stock,12,0.0,0
+170,"['write', 'littl', 'reaction', 'note', 'tomorrow', 'thank', 'opinion', 'advic']",20210310 2018000000,write littl reaction note tomorrow thank opinion advic,8,0.3612,0
+171,"['giant', 'hold', 'one', 'biggest', 'tech', 'year', 'march', 'compani', 'disclos', 'month', 'seek', 'billion', 'potenti', 'billion', 'valuat', 'new', 'york', 'stock', 'exchang']",20210310 1956180000,giant hold one biggest tech year march compani disclos month seek billion potenti billion valuat new york stock exchang,19,0.0,0
+172,"['giant', 'hold', 'one', 'biggest', 'tech', 'year', 'march', 'compani', 'disclos', 'month', 'seek', 'billion', 'potenti', 'billion', 'valuat', 'new', 'york', 'stock', 'exchang']",20210310 1956170000,giant hold one biggest tech year march compani disclos month seek billion potenti billion valuat new york stock exchang,19,0.0,0
+173,"['even', 'accord', 'giant', 'hold', 'one', 'biggest', 'tech', 'year', 'march', 'compani', 'disclos', 'month']",20210310 1946260000,even accord giant hold one biggest tech year march compani disclos month,12,0.0,0
+174,"['great', 'compani', 'richli', 'valu', 'like', 'today', 'didnt', 'buy', 'probabl', 'wont', 'buy', 'look', 'possibl', 'invest', 'one', 'price']",20210310 1938470000,great compani richli valu like today didnt buy probabl wont buy look possibl invest one price,16,0.765,0
+175,"['need', 'know']",20210310 1932510000,need know,2,0.0,0
+176,"['investor', 'interest', 'high', 'initi', 'public', 'offer', 'compani', 'south', 'rival', 'baba']",20210310 1920030000,investor interest high initi public offer compani south rival baba,10,0.4588,1
+177,"['like', 'make', 'big', 'bang', 'tomorrow']",20210310 1919390000,like make big bang tomorrow,5,0.3612,0
+180,"['right', 'hot', 'hayward', 'worth', 'look', 'swim', 'pool', 'busi', 'see', 'signific', 'demand', 'sinc', 'pandem', 'driven', 'peopl', 'comfort', 'hous']",20210310 1845030000,right hot hayward worth look swim pool busi see signific demand sinc pandem driven peopl comfort hous,17,0.4404,0
+181,"['behemoth', 'whose', 'tomorrow', 'snowflak', 'cofound', 'led', 'seri', 'b', 'earli', 'day', 'learn']",20210310 1645470000,behemoth whose tomorrow snowflak cofound led seri b earli day learn,11,0.0,0
+182,"['excit', 'releas', 'thesi', 'learn', 'built', 'compani', 'global']",20210310 1644360000,excit releas thesi learn built compani global,7,0.0,0
+183,"['even', 'accord', 'giant', 'hold', 'one', 'biggest', 'tech', 'year', 'march', 'compani', 'disclos', 'month']",20210310 1616560000,even accord giant hold one biggest tech year march compani disclos month,12,0.0,0
+184,"['even', 'accord', 'capit', 'giant', 'hold', 'one', 'biggest', 'tech', 'year']",20210310 1611330000,even accord capit giant hold one biggest tech year,9,0.0,0
+185,"['exchang', 'stock', 'worth', 'shop', 'market', 'share', 'aim', 'mar', 'trail', 'slightli', 'behind']",20210310 1606040000,exchang stock worth shop market share aim mar trail slightli behind,11,0.4767,0
+186,"['one', 'bubbl', 'son', 'person', 'world', 'day', 'lost', 'net', 'insan', 'dude', 'score', 'savag']",20210310 1545450000,one bubbl son person world day lost net insan dude score savag,12,-0.3182,0
+187,"['billion', 'us', 'king', 'tech']",20210310 1544190000,billion us king tech,4,0.0,0
+188,"['two', 'two', 'day', 'anoth', 'week', 'best', 'firm', 'one', 'ever']",20210310 1541310000,two two day anoth week best firm one ever,9,0.6369,0
+189,"['south', 'giant', 'well', 'way', 'one', 'initi', 'sinc', 'group', 'foreign', 'compani', 'could', 'rais', 'billion', 'valu', 'billion']",20210310 1451570000,south giant well way one initi sinc group foreign compani could rais billion valu billion,15,0.2732,0
+190,"['go', 'public', 'price', 'rang', 'invest', 'stock']",20210310 1435020000,go public price rang invest stock,6,0.0,0
+191,"['billion', 'us', 'king', 'tech', 'via', 'yahoo']",20210310 1429190000,billion us king tech via yahoo,6,0.0,0
+192,"['know', 'stock']",20210310 1428340000,know stock,2,0.0,0
+194,"['go', 'public', 'price', 'rang']",20210310 1339220000,go public price rang,4,0.0,0
+196,"['go', 'public', 'price', 'rang']",20210310 1334330000,go public price rang,4,0.0,0
+197,"['price', 'billion', 'valuat']",20210310 1259200000,price billion valuat,3,0.0,0
+198,"['site', 'offer', 'price', 'per', 'share']",20210310 1231240000,site offer price per share,5,0.296,0
+199,"['price', 'billion', 'valuat']",20210310 1223250000,price billion valuat,3,0.0,0
+200,"['compet', 'platform', 'south']",20210310 1217440000,compet platform south,3,0.0,0
+201,"['south', 'compani', 'go', 'public', 'new', 'york', 'like', 'built', 'formid', 'logist', 'network']",20210310 1102540000,south compani go public new york like built formid logist network,11,0.3612,0
+202,"['hi', 'march', 'abl', 'buy']",20210310 1028050000,hi march abl buy,4,0.0,0
+204,"['flag', 'flown', 'first', 'nation']",20210310 0846570000,flag flown first nation,4,0.0,0
+205,"['pois', 'reap', 'billion', 'profit']",20210310 0845050000,pois reap billion profit,4,0.4404,0
+206,"['south', 'giant', 'rais', 'much', 'new', 'york', 'potenti', 'valuat']",20210310 0800370000,south giant rais much new york potenti valuat,8,0.0,0
+207,"['us', 'congress', 'vote', 'stimulu', 'bill', 'scale', 'green', 'hydrogen']",20210310 0715190000,us congress vote stimulu bill scale green hydrogen,8,0.0,1
+208,['group'],20210310 0711530000,group,1,0.0,0
+209,"['us', 'congress', 'vote', 'stimulu', 'bill', 'scale', 'green', 'hydrogen']",20210310 0515430000,us congress vote stimulu bill scale green hydrogen,8,0.0,1
+210,"['us', 'congress', 'vote', 'stimulu', 'bill', 'scale', 'green', 'hydrogen']",20210310 0506020000,us congress vote stimulu bill scale green hydrogen,8,0.0,1
+211,"['us', 'congress', 'vote', 'stimulu', 'bill', 'scale', 'green', 'hydrogen']",20210310 0506020000,us congress vote stimulu bill scale green hydrogen,8,0.0,1
+212,"['pois', 'reap', 'billion', 'profit']",20210310 0430090000,pois reap billion profit,4,0.4404,0
+213,"['week', 'gone', 'sinc', 'bill', 'investor', 'dont', 'see', 'news', 'day', 'window', 'open', 'help', 'gaug', 'investor', 'sentiment', 'tech', 'watch', 'bond', 'treasuri', 'auction']",20210310 0402580000,week gone sinc bill investor dont see news day window open help gaug investor sentiment tech watch bond treasuri auction,20,0.4019,0
+214,"['go', 'success']",20210310 0358480000,go success,2,0.5719,0
+215,"['anyth', 'gift']",20210310 0349160000,anyth gift,2,0.4404,0
+216,"['pois', 'reap', 'billion', 'profit']",20210310 0151050000,pois reap billion profit,4,0.4404,0
+217,"['pois', 'reap', 'billion', 'profit']",20210310 0141210000,pois reap billion profit,4,0.4404,0
+218,"['ye', 'absolut', 'price', 'mostli']",20210310 0127580000,ye absolut price mostli,4,0.0,0
+220,"['pois', 'reap', 'billion', 'profit', 'need', 'help']",20210310 0057260000,pois reap billion profit need help,6,0.6808,0
+221,"['go', 'make', 'lot', 'earli', 'lot', 'money', 'especi', 'group', 'leader', 'lot', 'room', 'continu', 'grow', 'logist']",20210310 0043370000,go make lot earli lot money especi group leader lot room continu grow logist,14,0.0,0
